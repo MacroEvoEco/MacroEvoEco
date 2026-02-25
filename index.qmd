@@ -22,41 +22,19 @@ We are a research group spread across several schools at ANU, united by our inte
 ::: {.research-themes}
 
 ::: {.theme-item}
-{{< iconify mdi dna >}} Patterns and processes of molecular evolution
+{{< iconify mdi dna >}} [Patterns and processes of molecular evolution](research.qmd#molecular-evolution)
 :::
 
 ::: {.theme-item}
-{{< iconify mdi translate >}} Evolution of languages and linguistic diversity
+{{< iconify mdi translate >}} [Evolution of languages and linguistic diversity](research.qmd#language-diversity)
 :::
 
 ::: {.theme-item}
-{{< iconify mdi source-branch >}} Phylogenetics, macroevolution and biogeography
+{{< iconify mdi source-branch >}} [Phylogenetics, macroevolution and biogeography](research.qmd#macroevolution-biogeography)
 :::
 
 ::: {.theme-item}
-{{< iconify mdi shield-nature >}} Extinction risk and conservation prioritization
-:::
-
-:::
-
-:::
-
-::: {.section-block}
-
-## Our Textbooks
-
-::: {.textbook-grid}
-
-::: {.textbook-item}
-![Origins of Biodiversity](images/textbook-origins.jpg)
-:::
-
-::: {.textbook-item}
-![An Introduction to Molecular Evolution and Phylogenetics](images/textbook-molevo.jpg)
-:::
-
-::: {.textbook-item}
-![Reading the Story in DNA](images/textbook-dna.jpg)
+{{< iconify mdi shield-nature >}} [Extinction risk and conservation prioritization](research.qmd#extinction-conservation)
 :::
 
 :::
@@ -85,6 +63,28 @@ We are a research group spread across several schools at ANU, united by our inte
 
 :::
 
+::: {.section-block}
+
+## Our Textbooks
+
+::: {.textbook-grid}
+
+::: {.textbook-item}
+![Origins of Biodiversity](images/textbook-origins.jpg)
+:::
+
+::: {.textbook-item}
+![An Introduction to Molecular Evolution and Phylogenetics](images/textbook-molevo.jpg)
+:::
+
+::: {.textbook-item}
+![Reading the Story in DNA](images/textbook-dna.jpg)
+:::
+
+:::
+
+:::
+
 ::: {.affiliations-bar}
 
 We are affiliated with the ANU/CSIRO Centre for Biodiversity Analysis and the Evolution of Cultural Diversity Initiative
@@ -92,9 +92,9 @@ We are affiliated with the ANU/CSIRO Centre for Biodiversity Analysis and the Ev
 ::: {.affiliation-logos}
 ![Australian National University](images/logo-anu.png){.affiliation-logo}
 
-![Centre for Biodiversity Analysis](images/logo-cba.png){.affiliation-logo}
+![Centre for Biodiversity Analysis](images/logo-cba.jpg){.affiliation-logo}
 
-![Evolution of Cultural Diversity Initiative](images/logo-ecdi.png){.affiliation-logo}
+![Evolution of Cultural Diversity Initiative](images/logo-ecdi.jpg){.affiliation-logo}
 :::
 
 :::

@@ -1,0 +1,7 @@
+---
+title: "Jordan Douglas: Current Research Topics"
+---
+
+::: {.section-block}
+
+:::

@@ -1,0 +1,27 @@
+---
+title: "Research"
+---
+
+::: {.section-block}
+
+## Patterns and processes of molecular evolution {#molecular-evolution}
+
+::: {.project-card}
+:::
+
+## Evolution of languages and linguistic diversity {#language-diversity}
+
+::: {.project-card}
+:::
+
+## Phylogenetics, macroevolution and biogeography {#macroevolution-biogeography}
+
+::: {.project-card}
+:::
+
+## Extinction risk and conservation prioritization {#extinction-conservation}
+
+::: {.project-card}
+:::
+
+:::

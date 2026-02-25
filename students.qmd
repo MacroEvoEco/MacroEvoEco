@@ -1,0 +1,82 @@
+---
+title: "Prospective Students"
+---
+
+::: {.section-block}
+
+## Potential supervisors and project ideas
+
+### Lindell Bromham
+
+[Professor, Research School of Biology]{.team-role}
+
+-
+
+[Research topics](lindell-projects.qmd) &ensp; [ANU profile](https://biology.anu.edu.au/people/lindell-bromham)
+
+### Marcel Cardillo
+
+[Professor, Research School of Biology]{.team-role}
+
+-
+
+[Research topics](marcel-projects.qmd) &ensp; [ANU profile](https://biology.anu.edu.au/people/marcel-cardillo)
+
+### Xia Hua
+
+[Senior Lecturer, Mathematical Sciences Institute]{.team-role}
+
+-
+
+[Research topics](xia-projects.qmd) &ensp; [ANU profile](https://msi.anu.edu.au/people/xia-hua)
+
+### Ben Scheele
+
+[Lecturer and ARC Future Fellow, Fenner School of Environment & Society]{.team-role}
+
+-
+
+[Research topics](ben-projects.qmd) &ensp; [ANU profile](https://fennerschool.anu.edu.au/people/benjamin-scheele)
+
+### Alex Skeels
+
+[ARC DECRA Fellow, Research School of Biology]{.team-role}
+
+- Biotic interchange during a major continental collision: Sunda and Sahul
+- Deep-time climate effects on extinction patterns from molecular phylogenies
+- Simulating the evolution of biodiversity
+
+[Research topics](alex-projects.qmd) &ensp; [ANU profile](https://biology.anu.edu.au/people/alex-skeels)
+
+### Jordan Douglas
+
+[Postdoctoral Fellow, Research School of Biology]{.team-role}
+
+-
+
+[Research topics](jordan-projects.qmd) &ensp; [ANU profile](https://biology.anu.edu.au/people/jordan-douglas)
+
+### Sam Passmore
+
+[Postdoctoral Fellow, College of Arts and Social Sciences]{.team-role}
+
+-
+
+[Research topics](sam-projects.qmd) &ensp; [Personal website](https://www.sampassmore.com/)
+
+## How to apply
+
+### PhD
+
+- [ANU HDR admissions](https://www.anu.edu.au/study/apply/hdr-domestic)
+- [ANU International Research Scholarships](https://www.anu.edu.au/study/scholarships)
+
+### Honours and Masters
+
+- [Research School of Biology](https://biology.anu.edu.au/education/honours)
+- [Fenner School of Environment & Society](https://fennerschool.anu.edu.au/study/masters-environment)
+- [Mathematical Sciences Institute](https://msi.anu.edu.au/study)
+
+## Get in touch
+
+:::

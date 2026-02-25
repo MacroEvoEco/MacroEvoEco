@@ -22,6 +22,12 @@ Recent publications from the Macroevolution & Macroecology Group. For full publi
 
 - **Kearns** M, **Skeels** A, Yaxley K, **Cardillo** M (in press) Conservation priority areas based on phylogenetic diversity are sensitive to methods of phylogenetic inference and divergence time estimation. *Diversity & Distributions*
 
+- **Passmore** S, Mullan K (2026) Kinbank v1.2: A global database of kinship terminology.
+
+- Barth D, Arnold L, Davey K, Hendy C, Nath S, Mullan K, **Passmore** S (2026) Talk across the Pacific: Developments in understanding traditional and modern multilingualism. *Asia-Pacific Language Variation*.
+
+- Youngblood M, **Passmore** S (2026) Simulation-based inference with deep learning suggests speed climbers combine innovation and copying to improve performance. *Proceedings of the Royal Society B* 293(2062).
+
 ## 2025
 
 - **Bromham** L, Yaxley K, Wilson O, **Hua** X (2025) Macroevolutionary analysis of polysynthesis shows that language complexity is more likely to evolve in small, isolated populations. *PNAS* 122(24):e2504483122. [doi:10.1073/pnas.2504483122](https://doi.org/10.1073/pnas.2504483122)
@@ -84,6 +90,36 @@ Recent publications from the Macroevolution & Macroecology Group. For full publi
 
 - Jofré P, Aguilera-Gómez C, Villarreal P, Cubillos FA, Das P, **Hua** X et al. (2025) Studying stellar populations in Omega Centauri with phylogenetics. *Astronomy & Astrophysics* 699:A291. [doi:10.1051/0004-6361/202554863](https://doi.org/10.1051/0004-6361/202554863)
 
+- Stukel M, Matzke NJ, **Douglas** J et al. (2025) Phylogenomics and Fossilized Birth-Death Dating Reveals Gondwanan Origin and Extensive Post-Cretaceous Diversification of Worldwide Cicadidae. *bioRxiv* 2025.11.08.687401.
+
+- Guhlin J, Wierenga JR, **Douglas** J et al. (2025) Population genomics of yellow-eyed penguins uncovers subspecies divergence and candidate genes linked to respiratory distress syndrome. *bioRxiv* 2025.10.20.683354.
+
+- Puente-Lelievre C, Ridone P, **Douglas** J et al. (2025) Evolution and structural diversity of the MotAB stator: insights into the origins of bacterial flagellar motility. *mBio* 16(10):e03824-24.
+
+- Maldonado JS, Sepulveda S, Karthikeyan S, Shirakawa KT, Merced I, **Douglas** J et al. (2025) Mechanistic and evolutionary insights into a family of aminoacyl-tRNA deacylases that protects against canavanine toxicity. *Nucleic Acids Research* 53(17):gkaf922.
+
+- Jelley L, **Douglas** J, Allais M, Wang J, O'Neill M, Utekar S, Wood T et al. (2025) A decade of genomic surveillance tracks the disappearance and reintroduction of seasonal influenza virus in Aotearoa New Zealand.
+
+- **Douglas** J, Bouckaert R, Carter CW, Wills PR (2025) Reduced amino acid substitution matrices find traces of ancient coding alphabets in modern day proteins. *Molecular Biology and Evolution* 42(9):msaf197.
+
+- Puente-Lelievre C, Malik A, **Douglas** J (2025) Protein structural phylogenetics. *Genome Biology and Evolution* 17(8):evaf139.
+
+- Puente-Lelievre C, Matzke N, **Douglas** J (2025) An Introduction to Structural Phylogenetics for Biomedical Sciences.
+
+- Carter CW Jr, Tang GQ, Patra SK, Dieckhaus H, Kuhlman B, **Douglas** J et al. (2025) Structural Enzymology, Phylogenetics, Differentiation, and Symbolic Reflexivity at the Dawn of Biology. *Genome Biology and Evolution* 17(6):evaf095.
+
+- **Douglas** J, Bouckaert R, Harris SC, Carter CW Jr, Wills PR (2025) Evolution is coupled with branching across many granularities of life. *Proceedings of the Royal Society B* 292(2047).
+
+- Patra SK, Randolph N, Kuhlman B, Dieckhaus H, Betts L, **Douglas** J et al. (2025) Aminoacyl-tRNA synthetase urzymes optimized by deep learning behave as a quasispecies. *Structural Dynamics* 12(2).
+
+- **Passmore** S, San Roque L, Gillespie K, Nath S, Davey K, Mullan K et al. (2025) English-based acoustic models perform well in the forced alignment of two English-based Pacific Creoles. *Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics*.
+
+- **Passmore** S, Hellwig B, Garcia R, Kidd E (2025) The scientific and cultural cost of convenience sampling in the face of rising language endangerment: Highlighting the role of language acquisition. *Open Mind* 9:501–514.
+
+- **Passmore** S, Tobler R (2025) Trait Heritage: An R Package for calculating the heritage of traits on a phylogeny.
+
+- **Passmore** S (2025) Everett, Caleb: A Myriad of Tongues. How Languages Reveal Differences in How We Think. *Anthropos* 120(1):242–243.
+
 ## 2024
 
 - **Bromham** L, Yaxley KJ, **Cardillo** M (2024) Islands are engines of language diversity. *Nature Ecology and Evolution* 8:1991–2002. [doi:10.1038/s41559-024-02488-4](https://www.nature.com/articles/s41559-024-02488-4)
@@ -127,5 +163,27 @@ Recent publications from the Macroevolution & Macroecology Group. For full publi
 - Walsen K, Jofré P, Buder S, Yaxley K, Das P, Yates RM, **Hua** X, Signor T et al. (2024) Assembling a high-precision abundance catalogue of solar twins in GALAH for phylogenetic studies. *Monthly Notices of the Royal Astronomical Society* 529(3):2946–2966. [doi:10.1093/mnras/stae280](https://doi.org/10.1093/mnras/stae280)
 
 - de Brito Silva D, Jofré P, Tissera PB, Yaxley KJ, Gonzalez Jara J, **Hua** X et al. (2024) On the Evolutionary History of a Simulated Disk Galaxy as Seen by Phylogenetic Trees. *The Astrophysical Journal* 962(2):154. [doi:10.3847/1538-4357/ad036a](https://doi.org/10.3847/1538-4357/ad036a)
+
+- Radecki AA, Fantasia-Davis A, Maldonado JS, Mann JW, **Douglas** J et al. (2024) Coexisting bacterial aminoacyl-tRNA synthetase paralogs exhibit distinct phylogenetic backgrounds and functional compatibility with *Escherichia coli*. *IUBMB Life* 76(12):1139–1153.
+
+- **Douglas** J, Cui H, Perona JJ, Vargas-Rodriguez O, Tyynismaa H et al. (2024) AARS online: a collaborative database on the structure, function, and evolution of the aminoacyl-tRNA synthetases. *IUBMB Life* 76(12):1091–1105.
+
+- Patra SK, **Douglas** J, Wills PR, Betts L, Qing TG, Carter CW Jr (2024) A genomic database furnishes minimal functional glycyl-tRNA synthetases homologous to other, designed class II urzymes. *Nucleic Acids Research* 52(21):13305–13324.
+
+- Jelley L, **Douglas** J et al. (2024) Spatial and temporal transmission dynamics of respiratory syncytial virus in New Zealand before and after the COVID-19 pandemic. *Nature Communications* 15(1):9758.
+
+- Tang GQ, Hu H, **Douglas** J, Carter CW Jr (2024) Primordial aminoacyl-tRNA synthetases preferred minihelices to full-length tRNA. *Nucleic Acids Research* 52(12):7096–7111.
+
+- Jelley L, Aminisani N, O'Neill M, Jennings T, **Douglas** J et al. (2024) Tracing household transmission of SARS-CoV-2 in New Zealand using genomics. *npj Viruses* 2(1):21.
+
+- **Douglas** J, Carter CW, Wills PR (2024) HetMM: A Michaelis-Menten model for non-homogeneous enzyme mixtures. *iScience* 27(2).
+
+- **Douglas** J, Bouckaert R, Carter CW Jr, Wills PR (2024) Enzymic recognition of amino acids drove the evolution of primordial genetic codes. *Nucleic Acids Research* 52(2):558–571.
+
+- Carroll MJ, **Passmore** S, Döhler C, Evans N (2024) A Phylogeny of Yam Languages. *Australian Linguistic Society Annual Conference*.
+
+- **Passmore** S, Wood ALC, Barbieri C, Shilton D, Daikoku H, Atkinson QD et al. (2024) Global musical diversity is largely independent of linguistic and genetic histories. *Nature Communications* 15(1):3964.
+
+- Shcherbakova O, Michaelis SM, Haynie HJ, **Passmore** S, Gast V, Gray RD et al. (2024) As sociedades de estranhos não falam línguas menos complexas. *Revista Virtual de Estudos da Linguagem—ReVEL* 22(42):60–99.
 
 :::

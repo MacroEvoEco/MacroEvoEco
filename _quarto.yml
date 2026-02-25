@@ -17,10 +17,14 @@ website:
         href: index.qmd
       - text: "People"
         href: people.qmd
-      - text: "Projects"
+      - text: "Research"
+        href: research.qmd
+      - text: "Grants"
         href: projects.qmd
       - text: "Publications"
         href: publications.qmd
+      - text: "Prospective Students"
+        href: students.qmd
 
   page-footer:
     center: |

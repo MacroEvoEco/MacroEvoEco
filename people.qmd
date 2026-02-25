@@ -4,194 +4,164 @@ title: "People"
 
 ::: {.section-block}
 
-## Group Leaders
+::: {.intro-text}
+We are a research group spread across the Research School of Biology, Mathematical Sciences Institute, Fenner School of Environment & Society, and the College of Arts and Social Sciences at ANU.
+:::
 
-::: {.leader-pair}
+## Our Team
 
-::: {.leader-profile}
-![](images/placeholder-person.jpg){.leader-photo}
+::: {.team-grid}
 
-::: {.leader-info}
+::: {.team-card}
+![](images/placeholder-person.jpg){.team-photo}
+
 ### Lindell Bromham
 
-[Professor, Research School of Biology]{.leader-title}
+[Professor, Research School of Biology]{.team-role}
 
-My research focuses on connecting evolutionary processes across all levels of change, from the genome to the biosphere, and developing new ways to answer challenging questions regarding "tempo and mode" (pace and mechanism) of evolutionary change. I use a range of approaches to asking how tempo and mode of molecular evolution is shaped by species characteristics and environment, and how patterns of molecular evolution might affect macroevolutionary patterns and processes. I extend these approaches to studying linguistic diversity, adapting methods from evolutionary biology to study processes of language change at microevolutionary and macroevolutionary scales.
+My research focuses on connecting evolutionary processes across all levels of change, from the genome to the biosphere, and developing new ways to answer challenging questions regarding "tempo and mode" (pace and mechanism) of evolutionary change. I extend these approaches to studying linguistic diversity, adapting methods from evolutionary biology to study processes of language change at microevolutionary and macroevolutionary scales.
 
-[Personal website](https://lindellbromham.com/publications/) &ensp; [ANU profile](https://biology.anu.edu.au/people/lindell-bromham)
+[Research interests](lindell-projects.qmd) &ensp; [Personal website](https://lindellbromham.com/publications/) &ensp; [ANU profile](https://biology.anu.edu.au/people/lindell-bromham)
 :::
-:::
 
-::: {.leader-profile}
-![](images/placeholder-person.jpg){.leader-photo}
+::: {.team-card}
+![](images/placeholder-person.jpg){.team-photo}
 
-::: {.leader-info}
 ### Marcel Cardillo
 
-[Professor, Research School of Biology]{.leader-title}
+[Professor, Research School of Biology]{.team-role}
 
 I am interested in the past, present and future of biodiversity. I use phylogenetics, model-based biogeography, comparative methods and simulation approaches to reconstruct the historical events and infer the evolutionary processes that have shaped the biodiversity we see today. I'm interested in how evolutionary history has left some species particularly vulnerable to present-day human impacts, and how we can use this understanding to predict and plan for future extinction risk.
 
-[Current projects](marcel-projects.qmd) &ensp; [ANU profile](https://biology.anu.edu.au/people/marcel-cardillo)
-:::
-:::
-
+[Research interests](marcel-projects.qmd) &ensp; [ANU profile](https://biology.anu.edu.au/people/marcel-cardillo)
 :::
 
-::: {.leader-pair}
+::: {.team-card}
+![](images/people/Xia.jpg){.team-photo}
 
-::: {.leader-profile}
-![](images/placeholder-person.jpg){.leader-photo}
-
-::: {.leader-info}
 ### Xia Hua
 
-[Senior Lecturer, Mathematical Sciences Institute]{.leader-title}
+[Senior Lecturer, Mathematical Sciences Institute]{.team-role}
 
-In general, I'm interested in developing evolutionary theories through a mathematical modelling approach. Currently, my research focuses on speciation and phylogenetic theory, trying to elucidate the links between molecular evolution and diversification processes. I'm also interested in applying physics to understand macroevolution.
+I'm interested in developing evolutionary theories through a mathematical modelling approach. Currently, my research focuses on speciation and phylogenetic theory, trying to elucidate the links between molecular evolution and diversification processes. I'm also interested in applying physics to understand macroevolution.
 
-[ANU profile](https://msi.anu.edu.au/people/xia-hua)
+[Research interests](xia-projects.qmd) &ensp; [ANU profile](https://msi.anu.edu.au/people/xia-hua)
 :::
-:::
 
-::: {.leader-profile}
-![](images/placeholder-person.jpg){.leader-photo}
+::: {.team-card}
+![](images/people/Ben_Hospital_Creek_release_2020-1.jpg){.team-photo}
 
-::: {.leader-info}
 ### Ben Scheele
 
-[Lecturer and ARC Future Fellow, Fenner School of Environment & Society]{.leader-title}
+[Lecturer and ARC Future Fellow, Fenner School of Environment & Society]{.team-role}
 
-I'm interested in patterns and processes underlying species declines and extinctions. This work cuts across taxonomic groups, with an initial focus on frogs and plans to expand to birds and mammals. I also maintain a long-term field-based research program on several endangered species in the Australian Alps. I'm co-hosted by RSB and the Fenner School, and am also a member of the Keogh Lab.
+I'm interested in patterns and processes underlying species declines and extinctions. This work cuts across taxonomic groups, with an initial focus on frogs and plans to expand to birds and mammals. I also maintain a long-term field-based research program on several endangered species in the Australian Alps.
 
-[ANU profile](https://fennerschool.anu.edu.au/people/benjamin-scheele)
-:::
-:::
-
+[Research interests](ben-projects.qmd) &ensp; [ANU profile](https://fennerschool.anu.edu.au/people/benjamin-scheele)
 :::
 
-:::
+::: {.team-card}
+![](images/placeholder-person.jpg){.team-photo}
 
-::: {.section-block}
-
-## Research Fellows & Postdocs
-
-::: {.wide-profile}
-![](images/placeholder-person.jpg){.leader-photo}
-
-::: {.leader-info}
 ### Alex Skeels
 
-[ARC DECRA Fellow, Research School of Biology]{.leader-title}
+[ARC DECRA Fellow, Research School of Biology]{.team-role}
 
 I research the ways in which past environmental changes have shaped species diversity across different plant and animal lineages. I am particularly focused on the role of major climatic change, plate tectonics, and orogeny on biotic exchange and diversification in the Indo-Australia region. I use a combination of simulation modeling and phylogenetic comparative methods.
 
-[Personal website](https://alexskeels.github.io/) &ensp; [ANU profile](https://biology.anu.edu.au/people/alex-skeels)
-:::
+[Research interests](alex-projects.qmd) &ensp; [Personal website](https://alexskeels.github.io/) &ensp; [ANU profile](https://biology.anu.edu.au/people/alex-skeels)
 :::
 
-::: {.wide-profile}
-![](images/placeholder-person.jpg){.leader-photo}
+::: {.team-card}
+![](images/people/Jordan_Douglas.jpg){.team-photo}
 
-::: {.leader-info}
 ### Jordan Douglas
 
-[Postdoctoral Fellow, Research School of Biology]{.leader-title}
+[Postdoctoral Fellow, Research School of Biology]{.team-role}
 
 I am interested in the development of phylogenetic methods, including molecular clock and speciation models. Previously I have worked on the evolution of enzymes, protein structures, viruses, and macroevolutionary systems. Currently, I am investigating the environmental and evolutionary drivers of diversification.
 
-[ANU profile](https://biology.anu.edu.au/people/jordan-douglas)
-:::
+[Research interests](jordan-projects.qmd) &ensp; [ANU profile](https://biology.anu.edu.au/people/jordan-douglas)
 :::
 
-::: {.wide-profile}
-![](images/placeholder-person.jpg){.leader-photo}
+::: {.team-card}
+![](images/people/PASSMORE photo.jpg){.team-photo}
 
-::: {.leader-info}
 ### Sam Passmore
 
-[Postdoctoral Fellow, Evolution of Cultural Diversity Initiative]{.leader-title}
+[Postdoctoral Fellow, College of Arts and Social Sciences]{.team-role}
 
 I am interested in the application of evolutionary methods to culture, and how cultural change differs from biological evolution. I use phylogenetic and spatio-phylogenetic methods to explore relationships between languages, and explain patterns of cultural diversity, with a particular interest in kinship systems and kinship terminology.
 
-[ANU profile](https://biology.anu.edu.au/people/sam-passmore)
-:::
-:::
-
+[Research interests](sam-projects.qmd) &ensp; [Personal website](https://www.sampassmore.com/) &ensp; [ANU profile](https://biology.anu.edu.au/people/sam-passmore)
 :::
 
-::: {.section-block}
+::: {.team-card}
+![](images/people/Alan_Vincent_2018.jpg){.team-photo}
 
-## Students & Research Assistants
+### Alan Vincent
 
-::: {.people-grid}
+[PhD student, Research School of Biology]{.team-role}
 
-::: {.person-card}
-![](images/placeholder-person.jpg){.person-photo}
+Dynamics of ecological niches in Proteaceae.
 
-[Alan Vincent]{.person-name}
-
-[PhD student, Research School of Biology]{.person-role}
-
-[Dynamics of ecological niches in Proteaceae]{.person-bio}
-
-[Supervisor: Marcel Cardillo]{.person-role}
+[Supervisor: Marcel Cardillo]{.team-supervisor}
 
 [ANU profile](https://biology.anu.edu.au/people/alan-vincent)
 :::
 
-::: {.person-card}
-![](images/placeholder-person.jpg){.person-photo}
+::: {.team-card}
+![](images/placeholder-person.jpg){.team-photo}
 
-[George Lucas]{.person-name}
+### George Lucas
 
-[PhD student, Research School of Biology]{.person-role}
+[PhD student, Research School of Biology]{.team-role}
 
-[Global patterns and projections of human-wildlife conflict.]{.person-bio}
+Global patterns and projections of human-wildlife conflict.
 
-[Supervisor: Marcel Cardillo]{.person-role}
+[Supervisor: Marcel Cardillo]{.team-supervisor}
 
 [ANU profile](https://biology.anu.edu.au/people/george-lucas)
 :::
 
-::: {.person-card}
-![](images/placeholder-person.jpg){.person-photo}
+::: {.team-card}
+![](images/placeholder-person.jpg){.team-photo}
 
-[Maha Yudha Samawi]{.person-name}
+### Maha Yudha Samawi
 
-[Masters student, Research School of Biology]{.person-role}
+[Masters student, Research School of Biology]{.team-role}
 
-[Biogeography of *Crocidura* shrews in the Indo-Australian Archipelago.]{.person-bio}
+Biogeography of *Crocidura* shrews in the Indo-Australian Archipelago.
 
-[Supervisor: Alex Skeels]{.person-role}
+[Supervisors: Alex Skeels & [Scott Keogh](https://keoghlab.com/)]{.team-supervisor}
 
 [ANU profile](https://biology.anu.edu.au/people/maha-yudha-samawi)
 :::
 
-::: {.person-card}
-![](images/placeholder-person.jpg){.person-photo}
+::: {.team-card}
+![](images/people/Sam IR.jpg){.team-photo}
 
-[Sam Ingloff-Richards]{.person-name}
+### Sam Ingloff-Richards
 
-[Honours student, Research School of Biology]{.person-role}
+[Honours student, Research School of Biology]{.team-role}
 
-[Applying biological evolutionary models onto languages, while accounting for phylospatial autocorrelation.]{.person-bio}
+Applying biological evolutionary models onto languages, while accounting for phylospatial autocorrelation.
 
-[Supervisor: Lindell Bromham]{.person-role}
+[Supervisor: Lindell Bromham]{.team-supervisor}
 
 [ANU profile](https://biology.anu.edu.au/people/sam-ingloff-richards)
 :::
 
-::: {.person-card}
-![](images/placeholder-person.jpg){.person-photo}
+::: {.team-card}
+![](images/placeholder-person.jpg){.team-photo}
 
-[Mina Kearns]{.person-name}
+### Mina Kearns
 
-[Research Assistant, Research School of Biology]{.person-role}
+[Research Assistant, Research School of Biology]{.team-role}
 
-[Phylogenetic diversity & biogeography]{.person-bio}
+Phylogenetic diversity & biogeography.
 
-[Supervisor: Alex Skeels]{.person-role}
+[Supervisor: Alex Skeels]{.team-supervisor}
 
 [ANU profile](https://biology.anu.edu.au/people/mina-kearns)
 :::
