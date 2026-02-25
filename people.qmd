@@ -204,64 +204,280 @@ I am interested in the application of evolutionary methods to culture, and how c
 
 ## Alumni
 
+::: {.alumni-section}
+
 ### Former postdocs
 
-- Keaghan Yaxley (postdoctoral RA, 2022–2024)
-- Andrew Ritchie (postdoctoral RA, 2019–2021)
-- Russell Dinnage (postdoctoral RA, 2015–2019)
-- Caroline Chong (postdoctoral RA, 2015)
-- Dan Warren (postdoctoral RA, 2012–2014)
-- Peter Cowman (postdoctoral RA, 2012–2014)
-- Haris Saslis-Lagoudakis (postdoctoral RA, 2013–2014)
-- Rob Lanfear (postdoctoral RA, 2008–2012)
-- Renae Pratt (postdoctoral RA, 2010–2011)
-- Simon Ho (ARC postdoctoral fellow, 2008–2010)
-- Matthew Phillips (ARC postdoctoral fellow, 2007–2009)
+::: {.alumni-entry}
+[Keaghan Yaxley]{.alumni-name}
+[Postdoctoral RA, 2022--2024]{.alumni-role}
+:::
+
+::: {.alumni-entry}
+[Andrew Ritchie]{.alumni-name}
+[Postdoctoral RA, 2019--2021]{.alumni-role}
+:::
+
+::: {.alumni-entry}
+[Russell Dinnage]{.alumni-name}
+[Postdoctoral RA, 2015--2019]{.alumni-role}
+:::
+
+::: {.alumni-entry}
+[Caroline Chong]{.alumni-name}
+[Postdoctoral RA, 2015]{.alumni-role}
+:::
+
+::: {.alumni-entry}
+[Dan Warren]{.alumni-name}
+[Postdoctoral RA, 2012--2014]{.alumni-role}
+:::
+
+::: {.alumni-entry}
+[Peter Cowman]{.alumni-name}
+[Postdoctoral RA, 2012--2014]{.alumni-role}
+:::
+
+::: {.alumni-entry}
+[Haris Saslis-Lagoudakis]{.alumni-name}
+[Postdoctoral RA, 2013--2014]{.alumni-role}
+:::
+
+::: {.alumni-entry}
+[Rob Lanfear]{.alumni-name}
+[Postdoctoral RA, 2008--2012]{.alumni-role}
+:::
+
+::: {.alumni-entry}
+[Renae Pratt]{.alumni-name}
+[Postdoctoral RA, 2010--2011]{.alumni-role}
+:::
+
+::: {.alumni-entry}
+[Simon Ho]{.alumni-name}
+[ARC Postdoctoral Fellow, 2008--2010]{.alumni-role}
+:::
+
+::: {.alumni-entry}
+[Matthew Phillips]{.alumni-name}
+[ARC Postdoctoral Fellow, 2007--2009]{.alumni-role}
+:::
+
+:::
+
+::: {.alumni-section}
 
 ### Former PhD students
 
-- Alex Skeels (PhD 2020, *The Ecological and Evolutionary Drivers of Spatial Biodiversity Patterns*)
-- Zoe Reynolds (PhD 2019, *Disturbed birds: The function of fire in shaping patterns of avian diversity in south-eastern Australia*)
-- David Duchene (PhD 2016, *The importance of phylogenetic model assessment for macroevolutionary inference*)
-- Camile Moray (PhD 2015, *Evolutionary patterns of salt tolerance in angiosperms*)
-- Emily Hanna (PhD 2014, *Drivers of mammalian extinction and decline*)
-- Rob Lanfear (PhD 2007, *The evolution of animal body plans*)
-- Jessica Thomas (PhD 2008, *The tempo and mode of invertebrate molecular evolution*)
-- Eric Fontanillas (PhD 2009, *Molecular evolution in Metazoa: causes and consequences of variation in rate of molecular evolution*)
+::: {.alumni-entry}
+[Alex Skeels]{.alumni-name}
+[PhD, 2020]{.alumni-role}
+[The Ecological and Evolutionary Drivers of Spatial Biodiversity Patterns]{.alumni-thesis}
+:::
+
+::: {.alumni-entry}
+[Zoe Reynolds]{.alumni-name}
+[PhD, 2019]{.alumni-role}
+[Disturbed birds: The function of fire in shaping patterns of avian diversity in south-eastern Australia]{.alumni-thesis}
+:::
+
+::: {.alumni-entry}
+[David Duchene]{.alumni-name}
+[PhD, 2016]{.alumni-role}
+[The importance of phylogenetic model assessment for macroevolutionary inference]{.alumni-thesis}
+:::
+
+::: {.alumni-entry}
+[Camile Moray]{.alumni-name}
+[PhD, 2015]{.alumni-role}
+[Evolutionary patterns of salt tolerance in angiosperms]{.alumni-thesis}
+:::
+
+::: {.alumni-entry}
+[Emily Hanna]{.alumni-name}
+[PhD, 2014]{.alumni-role}
+[Drivers of mammalian extinction and decline]{.alumni-thesis}
+:::
+
+::: {.alumni-entry}
+[Rob Lanfear]{.alumni-name}
+[PhD, 2007]{.alumni-role}
+[The evolution of animal body plans]{.alumni-thesis}
+:::
+
+::: {.alumni-entry}
+[Jessica Thomas]{.alumni-name}
+[PhD, 2008]{.alumni-role}
+[The tempo and mode of invertebrate molecular evolution]{.alumni-thesis}
+:::
+
+::: {.alumni-entry}
+[Eric Fontanillas]{.alumni-name}
+[PhD, 2009]{.alumni-role}
+[Molecular evolution in Metazoa: causes and consequences of variation in rate of molecular evolution]{.alumni-thesis}
+:::
+
+:::
+
+::: {.alumni-section}
 
 ### Former honours/masters students
 
-- Mina Kearns (Honours 2023–24, *Spatial Variability of Phylogenetic Diversity: Implications for Conservation Area Planning*)
-- Zachary Trafford (Honours 2023)
-- Kathryn MacPherson (Masters 2023, *How den characteristics can be used to predict habitat suitability for an endangered marsupial*)
-- Emmeline Norris (Honours 2022–23, *Alternative conservation options for native mammals in the Australian Monsoonal Tropics*)
-- Rhiannon Schembri (Honours 2021, *Molecular evolution and speciation in the Australian Eugongylus skink clade*)
-- Felix Smits (Honours 2020–21, *Drivers of Extinction Risk and Spatial Conservation Prioritization in Australian mammals*)
-- Jarrod Sopniewski (Honours 2020, *The future of frogs: Modelling threats to Australian frogs in the face of climate change*)
-- Oliver Webeck (Honours 2019, *Projecting geographic distributions of Hakea (Proteaceae) under climate change*)
-- Isaac Bell (Honours 2019, *Explaining variation in extinction risk and predicting future decline in birds*)
-- Ellen Miech (Honours 2016, *Identifying drivers of Proteaceae declines on Western Australia's islands*)
-- Keaghan Yaxley (Honours 2015–16, *Conserving branch lengths: Phylogenetic diversity and molecular evolution*)
-- Alex Skeels (Honours 2015, *Niche evolution and spatial diversity patterns in Mediterranean hotspot plant genera*)
-- Caela Welsh (Honours 2015, *The influence of population size on rates of language evolution*)
-- Emma Day (Honours 2014–15, *Is specialization an evolutionary dead-end?*)
-- William McAlister (Honours 2014–15, *Investigating the artefactual relationship between niche breadth and geographic range size*)
-- Christiana McDonald-Spicer (Honours 2014–15, *Where are the global diversity hotspots of the Daisy family (Asteraceae)?*)
-- Zoe Reynolds (Honours 2012, *Phylogenetic, taxonomic, and functional turnover among Proteaceae assemblages*)
-- Emily Hanna (Honours 2009, *Modelling extinction risk using multiple model averaging: a case study with Australian mammals*)
-- Tom Bennett (Honours 2010, *Evolution of salt tolerance in grasses*)
+::: {.alumni-entry}
+[Mina Kearns]{.alumni-name}
+[Honours, 2023--24]{.alumni-role}
+[Spatial Variability of Phylogenetic Diversity: Implications for Conservation Area Planning]{.alumni-thesis}
+:::
+
+::: {.alumni-entry}
+[Zachary Trafford]{.alumni-name}
+[Honours, 2023]{.alumni-role}
+:::
+
+::: {.alumni-entry}
+[Kathryn MacPherson]{.alumni-name}
+[Masters, 2023]{.alumni-role}
+[How den characteristics can be used to predict habitat suitability for an endangered marsupial]{.alumni-thesis}
+:::
+
+::: {.alumni-entry}
+[Emmeline Norris]{.alumni-name}
+[Honours, 2022--23]{.alumni-role}
+[Alternative conservation options for native mammals in the Australian Monsoonal Tropics]{.alumni-thesis}
+:::
+
+::: {.alumni-entry}
+[Rhiannon Schembri]{.alumni-name}
+[Honours, 2021]{.alumni-role}
+[Molecular evolution and speciation in the Australian Eugongylus skink clade]{.alumni-thesis}
+:::
+
+::: {.alumni-entry}
+[Felix Smits]{.alumni-name}
+[Honours, 2020--21]{.alumni-role}
+[Drivers of Extinction Risk and Spatial Conservation Prioritization in Australian mammals]{.alumni-thesis}
+:::
+
+::: {.alumni-entry}
+[Jarrod Sopniewski]{.alumni-name}
+[Honours, 2020]{.alumni-role}
+[The future of frogs: Modelling threats to Australian frogs in the face of climate change]{.alumni-thesis}
+:::
+
+::: {.alumni-entry}
+[Oliver Webeck]{.alumni-name}
+[Honours, 2019]{.alumni-role}
+[Projecting geographic distributions of Hakea (Proteaceae) under climate change]{.alumni-thesis}
+:::
+
+::: {.alumni-entry}
+[Isaac Bell]{.alumni-name}
+[Honours, 2019]{.alumni-role}
+[Explaining variation in extinction risk and predicting future decline in birds]{.alumni-thesis}
+:::
+
+::: {.alumni-entry}
+[Ellen Miech]{.alumni-name}
+[Honours, 2016]{.alumni-role}
+[Identifying drivers of Proteaceae declines on Western Australia's islands]{.alumni-thesis}
+:::
+
+::: {.alumni-entry}
+[Keaghan Yaxley]{.alumni-name}
+[Honours, 2015--16]{.alumni-role}
+[Conserving branch lengths: Phylogenetic diversity and molecular evolution]{.alumni-thesis}
+:::
+
+::: {.alumni-entry}
+[Alex Skeels]{.alumni-name}
+[Honours, 2015]{.alumni-role}
+[Niche evolution and spatial diversity patterns in Mediterranean hotspot plant genera]{.alumni-thesis}
+:::
+
+::: {.alumni-entry}
+[Caela Welsh]{.alumni-name}
+[Honours, 2015]{.alumni-role}
+[The influence of population size on rates of language evolution]{.alumni-thesis}
+:::
+
+::: {.alumni-entry}
+[Emma Day]{.alumni-name}
+[Honours, 2014--15]{.alumni-role}
+[Is specialization an evolutionary dead-end?]{.alumni-thesis}
+:::
+
+::: {.alumni-entry}
+[William McAlister]{.alumni-name}
+[Honours, 2014--15]{.alumni-role}
+[Investigating the artefactual relationship between niche breadth and geographic range size]{.alumni-thesis}
+:::
+
+::: {.alumni-entry}
+[Christiana McDonald-Spicer]{.alumni-name}
+[Honours, 2014--15]{.alumni-role}
+[Where are the global diversity hotspots of the Daisy family (Asteraceae)?]{.alumni-thesis}
+:::
+
+::: {.alumni-entry}
+[Zoe Reynolds]{.alumni-name}
+[Honours, 2012]{.alumni-role}
+[Phylogenetic, taxonomic, and functional turnover among Proteaceae assemblages]{.alumni-thesis}
+:::
+
+::: {.alumni-entry}
+[Emily Hanna]{.alumni-name}
+[Honours, 2009]{.alumni-role}
+[Modelling extinction risk using multiple model averaging: a case study with Australian mammals]{.alumni-thesis}
+:::
+
+::: {.alumni-entry}
+[Tom Bennett]{.alumni-name}
+[Honours, 2010]{.alumni-role}
+[Evolution of salt tolerance in grasses]{.alumni-thesis}
+:::
+
+:::
+
+::: {.alumni-section}
 
 ### Former research assistants
 
-- Jessica Fenker Antunes
-- Zoe Reynolds
-- Renae Pratt
-- Tom Bennett
-- Gillian Gibb
+::: {.alumni-entry}
+[Jessica Fenker Antunes]{.alumni-name}
+:::
+
+::: {.alumni-entry}
+[Zoe Reynolds]{.alumni-name}
+:::
+
+::: {.alumni-entry}
+[Renae Pratt]{.alumni-name}
+:::
+
+::: {.alumni-entry}
+[Tom Bennett]{.alumni-name}
+:::
+
+::: {.alumni-entry}
+[Gillian Gibb]{.alumni-name}
+:::
+
+:::
+
+::: {.alumni-section}
 
 ### Former visiting students
 
-- Flavia Machado (graduate internship, 2017)
-- Ignacio Morales Castilla (graduate internship, 2011)
+::: {.alumni-entry}
+[Flavia Machado]{.alumni-name}
+[Graduate Internship, 2017]{.alumni-role}
+:::
+
+::: {.alumni-entry}
+[Ignacio Morales Castilla]{.alumni-name}
+[Graduate Internship, 2011]{.alumni-role}
+:::
+
+:::
 
 :::
