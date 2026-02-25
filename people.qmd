@@ -1,0 +1,267 @@
+---
+title: "People"
+---
+
+::: {.section-block}
+
+## Group Leaders
+
+::: {.leader-pair}
+
+::: {.leader-profile}
+![](images/placeholder-person.jpg){.leader-photo}
+
+::: {.leader-info}
+### Lindell Bromham
+
+[Professor, Research School of Biology]{.leader-title}
+
+My research focuses on connecting evolutionary processes across all levels of change, from the genome to the biosphere, and developing new ways to answer challenging questions regarding "tempo and mode" (pace and mechanism) of evolutionary change. I use a range of approaches to asking how tempo and mode of molecular evolution is shaped by species characteristics and environment, and how patterns of molecular evolution might affect macroevolutionary patterns and processes. I extend these approaches to studying linguistic diversity, adapting methods from evolutionary biology to study processes of language change at microevolutionary and macroevolutionary scales.
+
+[Personal website](https://lindellbromham.com/publications/) &ensp; [ANU profile](https://biology.anu.edu.au/people/lindell-bromham)
+:::
+:::
+
+::: {.leader-profile}
+![](images/placeholder-person.jpg){.leader-photo}
+
+::: {.leader-info}
+### Marcel Cardillo
+
+[Professor, Research School of Biology]{.leader-title}
+
+I am interested in the past, present and future of biodiversity. I use phylogenetics, model-based biogeography, comparative methods and simulation approaches to reconstruct the historical events and infer the evolutionary processes that have shaped the biodiversity we see today. I'm interested in how evolutionary history has left some species particularly vulnerable to present-day human impacts, and how we can use this understanding to predict and plan for future extinction risk.
+
+[Current projects](marcel-projects.qmd) &ensp; [ANU profile](https://biology.anu.edu.au/people/marcel-cardillo)
+:::
+:::
+
+:::
+
+::: {.leader-pair}
+
+::: {.leader-profile}
+![](images/placeholder-person.jpg){.leader-photo}
+
+::: {.leader-info}
+### Xia Hua
+
+[Senior Lecturer, Mathematical Sciences Institute]{.leader-title}
+
+In general, I'm interested in developing evolutionary theories through a mathematical modelling approach. Currently, my research focuses on speciation and phylogenetic theory, trying to elucidate the links between molecular evolution and diversification processes. I'm also interested in applying physics to understand macroevolution.
+
+[ANU profile](https://msi.anu.edu.au/people/xia-hua)
+:::
+:::
+
+::: {.leader-profile}
+![](images/placeholder-person.jpg){.leader-photo}
+
+::: {.leader-info}
+### Ben Scheele
+
+[Lecturer and ARC Future Fellow, Fenner School of Environment & Society]{.leader-title}
+
+I'm interested in patterns and processes underlying species declines and extinctions. This work cuts across taxonomic groups, with an initial focus on frogs and plans to expand to birds and mammals. I also maintain a long-term field-based research program on several endangered species in the Australian Alps. I'm co-hosted by RSB and the Fenner School, and am also a member of the Keogh Lab.
+
+[ANU profile](https://fennerschool.anu.edu.au/people/benjamin-scheele)
+:::
+:::
+
+:::
+
+:::
+
+::: {.section-block}
+
+## Research Fellows & Postdocs
+
+::: {.wide-profile}
+![](images/placeholder-person.jpg){.leader-photo}
+
+::: {.leader-info}
+### Alex Skeels
+
+[ARC DECRA Fellow, Research School of Biology]{.leader-title}
+
+I research the ways in which past environmental changes have shaped species diversity across different plant and animal lineages. I am particularly focused on the role of major climatic change, plate tectonics, and orogeny on biotic exchange and diversification in the Indo-Australia region. I use a combination of simulation modeling and phylogenetic comparative methods.
+
+[Personal website](https://alexskeels.github.io/) &ensp; [ANU profile](https://biology.anu.edu.au/people/alex-skeels)
+:::
+:::
+
+::: {.wide-profile}
+![](images/placeholder-person.jpg){.leader-photo}
+
+::: {.leader-info}
+### Jordan Douglas
+
+[Postdoctoral Fellow, Research School of Biology]{.leader-title}
+
+I am interested in the development of phylogenetic methods, including molecular clock and speciation models. Previously I have worked on the evolution of enzymes, protein structures, viruses, and macroevolutionary systems. Currently, I am investigating the environmental and evolutionary drivers of diversification.
+
+[ANU profile](https://biology.anu.edu.au/people/jordan-douglas)
+:::
+:::
+
+::: {.wide-profile}
+![](images/placeholder-person.jpg){.leader-photo}
+
+::: {.leader-info}
+### Sam Passmore
+
+[Postdoctoral Fellow, Evolution of Cultural Diversity Initiative]{.leader-title}
+
+I am interested in the application of evolutionary methods to culture, and how cultural change differs from biological evolution. I use phylogenetic and spatio-phylogenetic methods to explore relationships between languages, and explain patterns of cultural diversity, with a particular interest in kinship systems and kinship terminology.
+
+[ANU profile](https://biology.anu.edu.au/people/sam-passmore)
+:::
+:::
+
+:::
+
+::: {.section-block}
+
+## Students & Research Assistants
+
+::: {.people-grid}
+
+::: {.person-card}
+![](images/placeholder-person.jpg){.person-photo}
+
+[Alan Vincent]{.person-name}
+
+[PhD student, Research School of Biology]{.person-role}
+
+[Dynamics of ecological niches in Proteaceae]{.person-bio}
+
+[Supervisor: Marcel Cardillo]{.person-role}
+
+[ANU profile](https://biology.anu.edu.au/people/alan-vincent)
+:::
+
+::: {.person-card}
+![](images/placeholder-person.jpg){.person-photo}
+
+[George Lucas]{.person-name}
+
+[PhD student, Research School of Biology]{.person-role}
+
+[Global patterns and projections of human-wildlife conflict.]{.person-bio}
+
+[Supervisor: Marcel Cardillo]{.person-role}
+
+[ANU profile](https://biology.anu.edu.au/people/george-lucas)
+:::
+
+::: {.person-card}
+![](images/placeholder-person.jpg){.person-photo}
+
+[Maha Yudha Samawi]{.person-name}
+
+[Masters student, Research School of Biology]{.person-role}
+
+[Biogeography of *Crocidura* shrews in the Indo-Australian Archipelago.]{.person-bio}
+
+[Supervisor: Alex Skeels]{.person-role}
+
+[ANU profile](https://biology.anu.edu.au/people/maha-yudha-samawi)
+:::
+
+::: {.person-card}
+![](images/placeholder-person.jpg){.person-photo}
+
+[Sam Ingloff-Richards]{.person-name}
+
+[Honours student, Research School of Biology]{.person-role}
+
+[Applying biological evolutionary models onto languages, while accounting for phylospatial autocorrelation.]{.person-bio}
+
+[Supervisor: Lindell Bromham]{.person-role}
+
+[ANU profile](https://biology.anu.edu.au/people/sam-ingloff-richards)
+:::
+
+::: {.person-card}
+![](images/placeholder-person.jpg){.person-photo}
+
+[Mina Kearns]{.person-name}
+
+[Research Assistant, Research School of Biology]{.person-role}
+
+[Phylogenetic diversity & biogeography]{.person-bio}
+
+[Supervisor: Alex Skeels]{.person-role}
+
+[ANU profile](https://biology.anu.edu.au/people/mina-kearns)
+:::
+
+:::
+
+:::
+
+::: {.section-block}
+
+## Alumni
+
+### Former postdocs
+
+- Keaghan Yaxley (postdoctoral RA, 2022–2024)
+- Andrew Ritchie (postdoctoral RA, 2019–2021)
+- Russell Dinnage (postdoctoral RA, 2015–2019)
+- Caroline Chong (postdoctoral RA, 2015)
+- Dan Warren (postdoctoral RA, 2012–2014)
+- Peter Cowman (postdoctoral RA, 2012–2014)
+- Haris Saslis-Lagoudakis (postdoctoral RA, 2013–2014)
+- Rob Lanfear (postdoctoral RA, 2008–2012)
+- Renae Pratt (postdoctoral RA, 2010–2011)
+- Simon Ho (ARC postdoctoral fellow, 2008–2010)
+- Matthew Phillips (ARC postdoctoral fellow, 2007–2009)
+
+### Former PhD students
+
+- Alex Skeels (PhD 2020, *The Ecological and Evolutionary Drivers of Spatial Biodiversity Patterns*)
+- Zoe Reynolds (PhD 2019, *Disturbed birds: The function of fire in shaping patterns of avian diversity in south-eastern Australia*)
+- David Duchene (PhD 2016, *The importance of phylogenetic model assessment for macroevolutionary inference*)
+- Camile Moray (PhD 2015, *Evolutionary patterns of salt tolerance in angiosperms*)
+- Emily Hanna (PhD 2014, *Drivers of mammalian extinction and decline*)
+- Rob Lanfear (PhD 2007, *The evolution of animal body plans*)
+- Jessica Thomas (PhD 2008, *The tempo and mode of invertebrate molecular evolution*)
+- Eric Fontanillas (PhD 2009, *Molecular evolution in Metazoa: causes and consequences of variation in rate of molecular evolution*)
+
+### Former honours/masters students
+
+- Mina Kearns (Honours 2023–24, *Spatial Variability of Phylogenetic Diversity: Implications for Conservation Area Planning*)
+- Zachary Trafford (Honours 2023)
+- Kathryn MacPherson (Masters 2023, *How den characteristics can be used to predict habitat suitability for an endangered marsupial*)
+- Emmeline Norris (Honours 2022–23, *Alternative conservation options for native mammals in the Australian Monsoonal Tropics*)
+- Rhiannon Schembri (Honours 2021, *Molecular evolution and speciation in the Australian Eugongylus skink clade*)
+- Felix Smits (Honours 2020–21, *Drivers of Extinction Risk and Spatial Conservation Prioritization in Australian mammals*)
+- Jarrod Sopniewski (Honours 2020, *The future of frogs: Modelling threats to Australian frogs in the face of climate change*)
+- Oliver Webeck (Honours 2019, *Projecting geographic distributions of Hakea (Proteaceae) under climate change*)
+- Isaac Bell (Honours 2019, *Explaining variation in extinction risk and predicting future decline in birds*)
+- Ellen Miech (Honours 2016, *Identifying drivers of Proteaceae declines on Western Australia's islands*)
+- Keaghan Yaxley (Honours 2015–16, *Conserving branch lengths: Phylogenetic diversity and molecular evolution*)
+- Alex Skeels (Honours 2015, *Niche evolution and spatial diversity patterns in Mediterranean hotspot plant genera*)
+- Caela Welsh (Honours 2015, *The influence of population size on rates of language evolution*)
+- Emma Day (Honours 2014–15, *Is specialization an evolutionary dead-end?*)
+- William McAlister (Honours 2014–15, *Investigating the artefactual relationship between niche breadth and geographic range size*)
+- Christiana McDonald-Spicer (Honours 2014–15, *Where are the global diversity hotspots of the Daisy family (Asteraceae)?*)
+- Zoe Reynolds (Honours 2012, *Phylogenetic, taxonomic, and functional turnover among Proteaceae assemblages*)
+- Emily Hanna (Honours 2009, *Modelling extinction risk using multiple model averaging: a case study with Australian mammals*)
+- Tom Bennett (Honours 2010, *Evolution of salt tolerance in grasses*)
+
+### Former research assistants
+
+- Jessica Fenker Antunes
+- Zoe Reynolds
+- Renae Pratt
+- Tom Bennett
+- Gillian Gibb
+
+### Former visiting students
+
+- Flavia Machado (graduate internship, 2017)
+- Ignacio Morales Castilla (graduate internship, 2011)
+
+:::

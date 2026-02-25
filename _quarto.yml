@@ -1,0 +1,38 @@
+project:
+  type: website
+  output-dir: docs
+  render:
+    - "*.qmd"
+
+website:
+  title: "Macroevolution & Macroecology"
+  description: "Research group at the Australian National University"
+  favicon: images/favicon.png
+
+  navbar:
+    background: "#2C3E2D"
+    foreground: "#F5F3EE"
+    left:
+      - text: "Home"
+        href: index.qmd
+      - text: "People"
+        href: people.qmd
+      - text: "Projects"
+        href: projects.qmd
+      - text: "Publications"
+        href: publications.qmd
+
+  page-footer:
+    center: |
+      Macroevolution & Macroecology Group | Research School of Biology | Australian National University
+    background: "#2C3E2D"
+    foreground: "#F5F3EE"
+
+format:
+  html:
+    theme:
+      - cosmo
+      - styles.scss
+    css: styles.css
+    toc: false
+    page-layout: full

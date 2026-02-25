@@ -1,0 +1,83 @@
+---
+title: "Marcel Cardillo: Current Research Topics"
+---
+
+::: {.section-block}
+
+::: {.project-card}
+### Legacy of Gondwana: Evolutionary history and conservation of an iconic Australian plant group
+
+Grevilleoideae is the largest subfamily of the great Gondwanan plant family Proteaceae, and includes around 1000 species that have diversified into an amazing variety of forms and occupy most ecosystem types across Australia. We aim to reconstruct the phylogeny of Grevilleoideae using Anchored Hybrid Enrichment, and use this to explore the legacy that evolutionary history has left for present-day conservation.
+
+::: {.project-meta}
+[ARC Discovery Grant DP200102927]{.funding}
+
+Chief Investigator: Marcel Cardillo. Partner Investigators: Hervé Sauquet, Peter Weston and Austin Mast.
+
+Collaborating institutions: Royal Botanic Gardens Sydney and Florida State University.
+:::
+:::
+
+::: {.project-card}
+### Phylogeny, biogeography and diversification of Australian plants
+
+Mediterranean-climate regions, such as Australia's southwest, often have spectacular botanical diversity, despite poor soils and low rainfall, and the underlying causes are still not well understood. We are focusing on the diverse Australian plant family Proteaceae (which includes such iconic genera as *Banksia*, *Hakea* and *Grevillea*) to explore plant diversification processes generally, and the diversity of Australia's southwest corner in particular. We are using anchored hybrid enrichment genomic data to construct species-level phylogenies for some of these genera, and by combining these with spatial and ecological data, we are exploring questions such as:
+
+- Are rates of diversification higher in southwest Australian lineages?
+- Does phylogenetic niche conservatism contribute to the high diversity of Mediterranean-type environments?
+- How frequently have evolutionary shifts between biomes occurred?
+
+::: {.project-meta}
+This research program has been funded by various ARC Discovery grants over the past decade.
+
+Collaborating institutions: Florida State University and the Royal Botanic Gardens, Sydney.
+:::
+:::
+
+::: {.project-card}
+### Evolution at extremes: Macroevolutionary responses to harsh environments
+
+The Australian landscape presents many areas of extreme conditions for plant survival, such as drought, heat, or salt-affected soils. Are some lineages better able to adapt, persist and diversify in these harsh conditions? This project aims to develop new phylo-spatial methods to identify lineages most tolerant of extreme environments, detect enabling traits that contribute to stress resistance syndromes, and explore the processes of community assembly in harsh environments. Taking a macroevolutionary approach to understanding the evolution of tolerance may allow us to predict which lineages, species or communities are likely to be able to adapt to the increasing extreme conditions expected under global environmental change.
+
+::: {.project-meta}
+[ARC Discovery Grant DP160103915]{.funding}
+
+Chief Investigators: Lindell Bromham and Marcel Cardillo. Xia Hua is employed as a postdoc.
+
+Collaborating institutions: Atlas of Living Australia.
+:::
+:::
+
+::: {.project-card}
+### Ecological processes in evolutionary radiations
+
+Adaptive radiation theory predicts links between ecological processes that occur at small scales (such as interspecific competition) and macroevolutionary patterns of diversification and niche evolution through time. We are building computational models that simulate the adaptive radiation process to clarify these links, then testing them empirically using genomic and spatial data for Australian Proteaceae, and other groups including birds and mammals.
+
+::: {.project-meta}
+[ARC Discovery Grant DP160100574]{.funding}
+
+Chief Investigator: Marcel Cardillo. Russell Dinnage was employed as a postdoc on the project.
+:::
+:::
+
+::: {.project-card}
+### Extinction risk in the world's mammals
+
+Why do some species become threatened with extinction while others remain safe, even when they are exposed to similar threatening processes? To answer this question we need to explore phylogenetic and spatial patterns of species threat status, their associations with threatening processes (such as habitat loss or invasive predators), and the way these associations are mediated by the species biology and the environments they inhabit. We apply large-scale, phylogenetic comparative tests to large species databases to investigate patterns and correlates of threat status.
+
+::: {.project-meta}
+This is an ongoing research interest in our group, rather than a specific funded project.
+:::
+:::
+
+::: {.project-card}
+### Global patterns of biodiversity
+
+Surprisingly, many large-scale patterns of biodiversity (such as the latitudinal diversity gradient) are still poorly understood. We use large, global-scale databases of the distributions and phylogenies of mammals and birds to test hypotheses about the underlying causes of global biodiversity patterns.
+
+::: {.project-meta}
+This is not a specific, funded project, but an ongoing research interest in the Macroevolution & Macroecology Group.
+:::
+:::
+
+:::

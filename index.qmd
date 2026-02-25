@@ -1,0 +1,100 @@
+---
+title: ""
+page-layout: custom
+---
+
+::: {.hero-banner style="background-image: url('images/banner.jpg');"}
+::: {.hero-content}
+# Macroevolution and Macroecology Group
+
+[Australian National University]{.subtitle}
+:::
+:::
+
+::: {.section-block}
+
+## Our Research
+
+::: {.intro-text}
+We are a research group spread across several schools at ANU, united by our interest in evolutionary and ecological processes underlying biological, linguistic and cultural diversity, and the conservation of biodiversity. Our research covers a wide range of questions, taxonomic groups and spatial scales. Our research themes include:
+:::
+
+::: {.research-themes}
+
+::: {.theme-item}
+{{< iconify mdi dna >}} Patterns and processes of molecular evolution
+:::
+
+::: {.theme-item}
+{{< iconify mdi translate >}} Evolution of languages and linguistic diversity
+:::
+
+::: {.theme-item}
+{{< iconify mdi source-branch >}} Phylogenetics, macroevolution and biogeography
+:::
+
+::: {.theme-item}
+{{< iconify mdi shield-nature >}} Extinction risk and conservation prioritization
+:::
+
+:::
+
+:::
+
+::: {.section-block}
+
+## Our Textbooks
+
+::: {.textbook-grid}
+
+::: {.textbook-item}
+![Origins of Biodiversity](images/textbook-origins.jpg)
+:::
+
+::: {.textbook-item}
+![An Introduction to Molecular Evolution and Phylogenetics](images/textbook-molevo.jpg)
+:::
+
+::: {.textbook-item}
+![Reading the Story in DNA](images/textbook-dna.jpg)
+:::
+
+:::
+
+:::
+
+::: {.section-block}
+
+## Latest Publications
+
+- Kearns, M, Skeels, A., Yaxley, K., & Cardillo, M. (in press) Conservation priority areas based on phylogenetic diversity are sensitive to methods of phylogenetic inference and divergence time estimation. *Diversity & Distributions*
+
+- Cardillo, M., Scheele, B.C., Tulloch, A.I.T. (2025) Forecasting extinction risk for future-proof conservation decisions. *Trends in Ecology & Evolution* [doi:10.1016/j.tree.2025.10.014](https://doi.org/10.1016/j.tree.2025.10.014)
+
+- Norris E., Scheele B.C., Cardillo M. (2025) Assessing land tenure contributions for protected area growth under alternative conservation targets using the case study of the Australian Monsoonal Tropics. *Conservation Biology* [doi:10.1111/cobi.70143](https://conbio.onlinelibrary.wiley.com/doi/10.1111/cobi.70143)
+
+- Duncan, RP, Scheele, BC, & Clulow, S. (2025) Thermal mismatch models derived from occurrence data predict pathogen prevalence in frogs. *Proc. Natl. Acad. Sci. U.S.A.* [doi:10.1073/pnas.2423706122](https://www.pnas.org/doi/10.1073/pnas.2423706122)
+
+- Skeels, A., Sauquet, H., Mast, A.H., Weston, P.H., Olde, P.M., Jordan, G.J., Carpenter, R.J., Fenker, J., Reynolds, Z.K.M., Lemmon, A.R., Lemmon, E.M., Marcano, F.P., Cardillo, M. (2025) Paleo-biome dynamics shaped a large Gondwanan plant radiation. *Proc. Natl. Acad. Sci. U.S.A.* [doi:10.1073/pnas.2502129122](https://doi.org/10.1073/pnas.2502129122)
+
+- Yuan, Z., Yang, G., Ding, W., Brun, P., Skeels, A., Pellissier, L., & Zimmermann, NE (2025). The geography of connectivity shapes plant endemism hotspots. *Ecography* e07514. [doi:10.1002/ecog.07514](https://doi.org/10.1002/ecog.07514)
+
+- Schembri R, Bromham L, Moritz C, Hua X (2025) Comparing rates of molecular and morphological evolution identifies multiple speciation trajectories in a diverse radiation of skinks. *Evolution* qpaf033. [doi:10.1093/evolut/qpaf033](https://doi.org/10.1093/evolut/qpaf033)
+
+- L. Bromham, K. Yaxley, O. Wilson, & X. Hua (2025) Macroevolutionary analysis of polysynthesis shows that language complexity is more likely to evolve in small, isolated populations. *Proc. Natl. Acad. Sci. U.S.A.* 122 (24) e2504483122. [doi:10.1073/pnas.2504483122](https://doi.org/10.1073/pnas.2504483122)
+
+:::
+
+::: {.affiliations-bar}
+
+We are affiliated with the ANU/CSIRO Centre for Biodiversity Analysis and the Evolution of Cultural Diversity Initiative
+
+::: {.affiliation-logos}
+![Australian National University](images/logo-anu.png){.affiliation-logo}
+
+![Centre for Biodiversity Analysis](images/logo-cba.png){.affiliation-logo}
+
+![Evolution of Cultural Diversity Initiative](images/logo-ecdi.png){.affiliation-logo}
+:::
+
+:::
