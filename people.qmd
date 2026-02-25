@@ -13,7 +13,7 @@ We are a research group spread across the Research School of Biology, Mathematic
 ::: {.team-grid}
 
 ::: {.team-card}
-![](images/placeholder-person.jpg){.team-photo}
+![](images/people/lindell.png){.team-photo}
 
 ### Lindell Bromham
 
@@ -25,7 +25,7 @@ My research focuses on connecting evolutionary processes across all levels of ch
 :::
 
 ::: {.team-card}
-![](images/placeholder-person.jpg){.team-photo}
+![](images/people/marcel.jpg){.team-photo}
 
 ### Marcel Cardillo
 
@@ -61,7 +61,7 @@ I'm interested in patterns and processes underlying species declines and extinct
 :::
 
 ::: {.team-card}
-![](images/placeholder-person.jpg){.team-photo}
+![](images/people/Alex.jpg){.team-photo}
 
 ### Alex Skeels
 
