@@ -11,6 +11,15 @@ Current and recent funded projects in the Macroevolution & Macroecology Group
 ## Current & Recently Completed
 
 ::: {.project-card}
+### Uncovering mechanisms of species decline to prevent extinctions
+::: {.project-meta}
+[Australian Research Council Future Fellowship, 2026–2030 ($1,130,122)]{.funding}
+
+Investigators: Ben Scheele
+:::
+:::
+
+::: {.project-card}
 ### How environmental change drives the origin and decline of biodiversity
 ::: {.project-meta}
 [Australian Research Council Discovery Early Career Research Award, 2025–2027 ($486,675)]{.funding}
