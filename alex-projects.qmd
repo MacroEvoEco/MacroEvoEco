@@ -2,6 +2,5 @@
 title: "Alex Skeels: Current Research Topics"
 ---
 
-::: {.section-block}
-
+::: section-block
 :::
