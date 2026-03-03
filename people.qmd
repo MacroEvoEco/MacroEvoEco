@@ -125,7 +125,7 @@ Global patterns and projections of human-wildlife conflict.
 :::
 
 ::: {.team-card}
-![](images/placeholder-person.jpg){.team-photo}
+![](images/people/Maha.jpg){.team-photo}
 
 ### Maha Yudha Samawi
 
