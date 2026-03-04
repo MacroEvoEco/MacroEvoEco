@@ -35,6 +35,8 @@ We welcome students at all levels — PhD, Masters, Honours, and undergraduate �
 
 :::
 
+<div id="projects-container">
+
 ::: {.student-project data-levels="phd honours masters" data-topics="macroevolution biogeography"}
 ### Biotic interchange during a major continental collision: Sunda and Sahul
 
@@ -161,17 +163,33 @@ Jordan develops and applies phylogenetic methods — including molecular clocks 
 [ANU profile](https://biology.anu.edu.au/people/jordan-douglas)
 :::
 
+</div>
+
 <div id="no-results" style="display:none; padding: 1rem; color: #888; font-style: italic;">
 No projects match the selected filters. Try a different combination or <a href="mailto:macroevoeco@anu.edu.au">get in touch</a>.
 </div>
 
 <script>
 document.addEventListener('DOMContentLoaded', function () {
+
+  // ── Shuffle student project cards ────────────────────────────────────────
+  var container = document.getElementById('projects-container');
+  if (container) {
+    var cards = Array.from(container.querySelectorAll(':scope > .student-project'));
+    var anchor = cards[cards.length - 1].nextSibling;
+    cards.forEach(function (c) { container.removeChild(c); });
+    for (var i = cards.length - 1; i > 0; i--) {
+      var j = Math.floor(Math.random() * (i + 1));
+      var tmp = cards[i]; cards[i] = cards[j]; cards[j] = tmp;
+    }
+    cards.forEach(function (c) { container.insertBefore(c, anchor); });
+  }
+
   var activeLevel = 'all';
   var activeTopic = 'all';
 
   function applyFilters() {
-    var projects = document.querySelectorAll('.student-project');
+    var projects = document.querySelectorAll('#projects-container > .student-project');
     var visible = 0;
     projects.forEach(function (el) {
       var levels = (el.dataset.levels || '').split(' ');
