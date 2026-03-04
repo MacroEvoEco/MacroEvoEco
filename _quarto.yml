@@ -3,6 +3,9 @@ project:
   output-dir: docs
   render:
     - "*.qmd"
+  resources:
+    - images/banner.jpg
+    - images/p4220620.jpg
 
 website:
   title: "Macroevolution & Macroecology"
