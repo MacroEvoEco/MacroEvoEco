@@ -172,6 +172,51 @@ Phylogenetic diversity & biogeography.
 
 ::: {.section-block}
 
+<script>
+document.addEventListener('DOMContentLoaded', function () {
+
+  // ── 1. Photo hover overlay ──────────────────────────────────────────────
+  document.querySelectorAll('img.team-photo, img.leader-photo').forEach(function (img) {
+    var card = img.closest('.team-card, .leader-profile, .wide-profile');
+    if (!card) return;
+
+    var name = (card.querySelector('h3') || {}).textContent || '';
+    var role = (card.querySelector('.team-role, .leader-title') || {}).textContent || '';
+    var bioEl = card.querySelector('p');
+    var bio = bioEl ? bioEl.textContent.trim() : '';
+    if (bio.length > 160) bio = bio.substring(0, 157) + '…';
+
+    var wrapper = document.createElement('div');
+    wrapper.className = 'photo-wrapper';
+    img.parentNode.insertBefore(wrapper, img);
+    wrapper.appendChild(img);
+
+    var overlay = document.createElement('div');
+    overlay.className = 'photo-overlay';
+    overlay.innerHTML =
+      '<span class="overlay-name">' + name.trim() + '</span>' +
+      '<span class="overlay-role">' + role.trim() + '</span>' +
+      (bio ? '<span class="overlay-bio">' + bio + '</span>' : '');
+    wrapper.appendChild(overlay);
+  });
+
+  // ── 2. Shuffle non-PI team members ─────────────────────────────────────
+  var grid = document.querySelector('.team-grid');
+  if (grid) {
+    var all = Array.from(grid.querySelectorAll(':scope > .team-card'));
+    // First two cards (Lindell, Marcel) stay fixed
+    var fixed = all.slice(0, 2);
+    var rest  = all.slice(2);
+    for (var i = rest.length - 1; i > 0; i--) {
+      var j = Math.floor(Math.random() * (i + 1));
+      var tmp = rest[i]; rest[i] = rest[j]; rest[j] = tmp;
+    }
+    fixed.concat(rest).forEach(function (card) { grid.appendChild(card); });
+  }
+
+});
+</script>
+
 ## Alumni
 
 ::: {.alumni-section}

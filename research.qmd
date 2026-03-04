@@ -4,24 +4,32 @@ title: "Research"
 
 ::: {.section-block}
 
+::: {.intro-text}
+We study evolutionary and ecological processes across biological, linguistic and cultural diversity. Below are examples of our major research themes.
+:::
+
 ## Patterns and processes of molecular evolution {#molecular-evolution}
 
 ::: {.project-card}
+*Blurb coming soon.*
 :::
 
-## Evolution of languages and linguistic diversity {#language-diversity}
+## Evolution of languages, linguistic and cultural diversity {#language-culture}
 
 ::: {.project-card}
+*Blurb coming soon.*
 :::
 
 ## Phylogenetics, macroevolution and biogeography {#macroevolution-biogeography}
 
 ::: {.project-card}
+*Blurb coming soon.*
 :::
 
 ## Extinction risk and conservation prioritization {#extinction-conservation}
 
 ::: {.project-card}
+*Blurb coming soon.*
 :::
 
 :::

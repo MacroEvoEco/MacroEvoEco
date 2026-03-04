@@ -15,7 +15,7 @@ Current and recent funded projects in the Macroevolution & Macroecology Group
 ::: {.project-meta}
 [Australian Research Council Future Fellowship, 2026–2030 ($1,130,122)]{.funding}
 
-Investigators: Ben Scheele
+Investigators: [Ben Scheele](people.qmd#ben-scheele)
 :::
 :::
 
@@ -24,7 +24,7 @@ Investigators: Ben Scheele
 ::: {.project-meta}
 [Australian Research Council Discovery Early Career Research Award, 2025–2027 ($486,675)]{.funding}
 
-Investigators: Alex Skeels
+Investigators: [Alex Skeels](people.qmd#alex-skeels)
 :::
 :::
 
@@ -33,7 +33,7 @@ Investigators: Alex Skeels
 ::: {.project-meta}
 [Australian Research Council Discovery Grant, 2023–2025 ($399,410)]{.funding}
 
-Investigators: Lindell Bromham
+Investigators: [Lindell Bromham](people.qmd#lindell-bromham)
 :::
 :::
 
@@ -42,7 +42,7 @@ Investigators: Lindell Bromham
 ::: {.project-meta}
 [Australian Research Council Discovery Grant, 2023–2025 ($388,000)]{.funding}
 
-Investigators: Xia Hua, Lindell Bromham, Marcel Cardillo
+Investigators: [Xia Hua](people.qmd#xia-hua), [Lindell Bromham](people.qmd#lindell-bromham), [Marcel Cardillo](people.qmd#marcel-cardillo)
 :::
 :::
 
@@ -51,7 +51,7 @@ Investigators: Xia Hua, Lindell Bromham, Marcel Cardillo
 ::: {.project-meta}
 [Australian Research Council Discovery Grant, 2021–2025 ($390,000)]{.funding}
 
-Investigators: Marcel Cardillo, Hervé Sauquet, Peter Weston, Austin Mast
+Investigators: [Marcel Cardillo](people.qmd#marcel-cardillo), Hervé Sauquet, Peter Weston, Austin Mast
 :::
 :::
 
@@ -60,7 +60,7 @@ Investigators: Marcel Cardillo, Hervé Sauquet, Peter Weston, Austin Mast
 ::: {.project-card-past}
 #### Evolving Rates: Foundations for the next generation of molecular clocks
 ::: {.project-meta}
-[ARC Discovery Grant, 2019–2021 ($462,000)]{.funding} — Investigators: Lindell Bromham, Xia Hua
+[ARC Discovery Grant, 2019–2021 ($462,000)]{.funding} — Investigators: [Lindell Bromham](people.qmd#lindell-bromham), [Xia Hua](people.qmd#xia-hua)
 :::
 :::
 
@@ -74,42 +74,42 @@ Investigators: Marcel Cardillo, Hervé Sauquet, Peter Weston, Austin Mast
 ::: {.project-card-past}
 #### The influence of environment on global patterns of language diversity
 ::: {.project-meta}
-[ARC Centre of Excellence for the Dynamics of Language Transdisciplinary & Innovation Grant ($18,325)]{.funding} — Investigators: Simon Greenhill, Lindell Bromham, Xia Hua, Marcel Cardillo
+[ARC Centre of Excellence for the Dynamics of Language Transdisciplinary & Innovation Grant ($18,325)]{.funding} — Investigators: Simon Greenhill, [Lindell Bromham](people.qmd#lindell-bromham), [Xia Hua](people.qmd#xia-hua), [Marcel Cardillo](people.qmd#marcel-cardillo)
 :::
 :::
 
 ::: {.project-card-past}
 #### Evolution at extremes: Macroevolutionary responses to harsh environments
 ::: {.project-meta}
-[ARC Discovery Grant, 2016–2019 ($378,700)]{.funding} — Investigators: L. Bromham, M. Cardillo
+[ARC Discovery Grant, 2016–2019 ($378,700)]{.funding} — Investigators: [L. Bromham](people.qmd#lindell-bromham), [M. Cardillo](people.qmd#marcel-cardillo)
 :::
 :::
 
 ::: {.project-card-past}
 #### Testing the links between ecological processes and evolutionary radiations
 ::: {.project-meta}
-[ARC Discovery Grant, 2016–2019 ($359,400)]{.funding} — Investigators: M. Cardillo
+[ARC Discovery Grant, 2016–2019 ($359,400)]{.funding} — Investigators: [M. Cardillo](people.qmd#marcel-cardillo)
 :::
 :::
 
 ::: {.project-card-past}
 #### Environmental Drivers of Acacia-Associated Symbiotic Microbe Diversity
 ::: {.project-meta}
-[Centre for Biodiversity Analysis Ignition Grant, 2015 ($9,750)]{.funding} — Investigators: Russell Dinnage, Marcel Cardillo, Anna Simonsen, Suzanne Prober, Luke Barrett, Pete Thrall
+[Centre for Biodiversity Analysis Ignition Grant, 2015 ($9,750)]{.funding} — Investigators: Russell Dinnage, [Marcel Cardillo](people.qmd#marcel-cardillo), Anna Simonsen, Suzanne Prober, Luke Barrett, Pete Thrall
 :::
 :::
 
 ::: {.project-card-past}
 #### Linking genomic data to spatial biodiversity data in the Atlas of Living Australia
 ::: {.project-meta}
-[Centre for Biodiversity Analysis Ignition Grant, 2015 ($9,300)]{.funding} — Investigators: Caroline Chong, Justin Borevitz, Lindell Bromham, Rebecca Pirzl, John La Salle
+[Centre for Biodiversity Analysis Ignition Grant, 2015 ($9,300)]{.funding} — Investigators: Caroline Chong, Justin Borevitz, [Lindell Bromham](people.qmd#lindell-bromham), Rebecca Pirzl, John La Salle
 :::
 :::
 
 ::: {.project-card-past}
 #### Investigating the link between micro-level linguistic changes to macro-level processes in language diversification
 ::: {.project-meta}
-[Centre of Excellence for the Dynamics of Language New Initiative & Transdisciplinary Grant, 2015 ($10,000)]{.funding} — Investigators: X. Hua, L. Bromham, S. Greenhill, N. Evans
+[Centre of Excellence for the Dynamics of Language New Initiative & Transdisciplinary Grant, 2015 ($10,000)]{.funding} — Investigators: [X. Hua](people.qmd#xia-hua), [L. Bromham](people.qmd#lindell-bromham), S. Greenhill, N. Evans
 :::
 :::
 
@@ -130,42 +130,42 @@ Investigators: Marcel Cardillo, Hervé Sauquet, Peter Weston, Austin Mast
 ::: {.project-card-past}
 #### Developing new methods for using distribution data to identify taxa that can tolerate extreme conditions
 ::: {.project-meta}
-[Centre for Biodiversity Analysis Ignition Grant, 2015 ($10,000)]{.funding} — Investigators: X. Hua, L. Bromham, M. Cardillo, J. LaSalle, R. Pirzl
+[Centre for Biodiversity Analysis Ignition Grant, 2015 ($10,000)]{.funding} — Investigators: [X. Hua](people.qmd#xia-hua), [L. Bromham](people.qmd#lindell-bromham), [M. Cardillo](people.qmd#marcel-cardillo), J. LaSalle, R. Pirzl
 :::
 :::
 
 ::: {.project-card-past}
 #### Origins of a biodiversity hotspot flora: diversification of the Australian Proteaceae
 ::: {.project-meta}
-[ARC Discovery Grant, 2011–2014 ($411,580)]{.funding} — Investigators: M. Cardillo, L. Bromham
+[ARC Discovery Grant, 2011–2014 ($411,580)]{.funding} — Investigators: [M. Cardillo](people.qmd#marcel-cardillo), [L. Bromham](people.qmd#lindell-bromham)
 :::
 :::
 
 ::: {.project-card-past}
 #### Exploring evolvability: its causes, consequences and practical applications in a changing environment
 ::: {.project-meta}
-[Australian Research Council Future Fellowship]{.funding} — Investigators: L. Bromham
+[Australian Research Council Future Fellowship]{.funding} — Investigators: [L. Bromham](people.qmd#lindell-bromham)
 :::
 :::
 
 ::: {.project-card-past}
 #### Anatomy of a biodiversity hotspot: investigating the evolutionary and ecological basis of high plant diversity in southwestern Australia
 ::: {.project-meta}
-[ARC Discovery Grant / QEII Fellowship, 2008–2013 ($739,123)]{.funding} — Investigators: M. Cardillo
+[ARC Discovery Grant / QEII Fellowship, 2008–2013 ($739,123)]{.funding} — Investigators: [M. Cardillo](people.qmd#marcel-cardillo)
 :::
 :::
 
 ::: {.project-card-past}
 #### Evolution of halophytes: a phyloinformatic approach to understanding and exploiting the traits underlying salt-tolerance in plants
 ::: {.project-meta}
-[Australian Research Council Linkage Grant]{.funding} — Investigators: L. Bromham, D. Cantrill, D. Murphy, T. Flowers, Dillon, D. Crayn
+[Australian Research Council Linkage Grant]{.funding} — Investigators: [L. Bromham](people.qmd#lindell-bromham), D. Cantrill, D. Murphy, T. Flowers, Dillon, D. Crayn
 :::
 :::
 
 ::: {.project-card-past}
 #### Phyloinformatics and biodiversity: developing bioinformatic tools for understanding the dynamics of extinction and invasion within species assemblages
 ::: {.project-meta}
-[Australian Research Council Discovery Grant]{.funding} — Investigators: L. Bromham
+[Australian Research Council Discovery Grant]{.funding} — Investigators: [L. Bromham](people.qmd#lindell-bromham)
 :::
 :::
 

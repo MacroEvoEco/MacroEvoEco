@@ -4,65 +4,200 @@ title: "Prospective Students"
 
 ::: {.section-block}
 
-## Potential supervisors and project ideas
+::: {.intro-text}
+We welcome students at all levels — PhD, Masters, Honours, and undergraduate — across our research areas. Browse projects below or get in touch with a supervisor directly to discuss ideas.
+:::
 
-### Lindell Bromham
+## Available Projects
 
-[Professor, Research School of Biology]{.team-role}
+::: {.filter-section}
 
--
+::: {.filter-bar}
+[**Level:**]{.filter-label}
+<button class="filter-btn active" data-filter-type="level" data-filter-value="all">All</button>
+<button class="filter-btn" data-filter-type="level" data-filter-value="phd">PhD</button>
+<button class="filter-btn" data-filter-type="level" data-filter-value="masters">Masters</button>
+<button class="filter-btn" data-filter-type="level" data-filter-value="honours">Honours</button>
+<button class="filter-btn" data-filter-type="level" data-filter-value="undergraduate">Undergraduate</button>
+:::
 
-[Research topics](lindell-projects.qmd) &ensp; [ANU profile](https://biology.anu.edu.au/people/lindell-bromham)
+::: {.filter-bar}
+[**Topic:**]{.filter-label}
+<button class="filter-btn active" data-filter-type="topic" data-filter-value="all">All</button>
+<button class="filter-btn" data-filter-type="topic" data-filter-value="molecular-evolution">Molecular Evolution</button>
+<button class="filter-btn" data-filter-type="topic" data-filter-value="language-culture">Language & Culture</button>
+<button class="filter-btn" data-filter-type="topic" data-filter-value="macroevolution">Macroevolution</button>
+<button class="filter-btn" data-filter-type="topic" data-filter-value="conservation">Conservation</button>
+:::
 
-### Marcel Cardillo
+:::
 
-[Professor, Research School of Biology]{.team-role}
+::: {.student-project data-levels="phd honours" data-topics="macroevolution"}
+### Biotic interchange during a major continental collision: Sunda and Sahul
 
--
+::: {.project-tags}
+[PhD]{.tag .tag-level} [Honours]{.tag .tag-level} [Macroevolution & Biogeography]{.tag .tag-topic}
+:::
 
-[Research topics](marcel-projects.qmd) &ensp; [ANU profile](https://biology.anu.edu.au/people/marcel-cardillo)
+[**Supervisor:** [Alex Skeels](people.qmd#alex-skeels)]{.project-supervisor}
 
-### Xia Hua
+The collision of the Sunda and Sahul tectonic plates created one of the most biodiverse regions on Earth. This project investigates how species have exchanged between these two landmasses over geological time and what factors have driven or impeded this biotic interchange. Students will use phylogenetic comparative methods and biogeographic modelling.
+:::
 
-[Senior Lecturer, Mathematical Sciences Institute]{.team-role}
+::: {.student-project data-levels="phd honours" data-topics="macroevolution"}
+### Deep-time climate effects on extinction patterns from molecular phylogenies
 
--
+::: {.project-tags}
+[PhD]{.tag .tag-level} [Honours]{.tag .tag-level} [Macroevolution & Biogeography]{.tag .tag-topic}
+:::
 
-[Research topics](xia-projects.qmd) &ensp; [ANU profile](https://msi.anu.edu.au/people/xia-hua)
+[**Supervisor:** [Alex Skeels](people.qmd#alex-skeels)]{.project-supervisor}
 
-### Ben Scheele
+How have past climate changes shaped the extinction and diversification of species over millions of years? This project uses time-calibrated molecular phylogenies to investigate the signatures of ancient climate-driven extinction events across plant and animal lineages.
+:::
 
-[Lecturer and ARC Future Fellow, Fenner School of Environment & Society]{.team-role}
+::: {.student-project data-levels="phd honours masters" data-topics="macroevolution"}
+### Simulating the evolution of biodiversity
 
--
+::: {.project-tags}
+[PhD]{.tag .tag-level} [Masters]{.tag .tag-level} [Honours]{.tag .tag-level} [Macroevolution & Biogeography]{.tag .tag-topic}
+:::
 
-[Research topics](ben-projects.qmd) &ensp; [ANU profile](https://fennerschool.anu.edu.au/people/benjamin-scheele)
+[**Supervisor:** [Alex Skeels](people.qmd#alex-skeels)]{.project-supervisor}
 
-### Alex Skeels
+Individual-based simulation models offer a powerful way to understand how ecological and evolutionary processes produce the biodiversity patterns we observe today. This project involves developing or applying simulation frameworks to explore drivers of species richness, endemism, and phylogenetic structure across space and time.
+:::
 
-[ARC DECRA Fellow, Research School of Biology]{.team-role}
+::: {.student-project data-levels="phd honours masters" data-topics="molecular-evolution"}
+### Projects in molecular evolution and mutation rates
 
-- Biotic interchange during a major continental collision: Sunda and Sahul
-- Deep-time climate effects on extinction patterns from molecular phylogenies
-- Simulating the evolution of biodiversity
+::: {.project-tags}
+[PhD]{.tag .tag-level} [Masters]{.tag .tag-level} [Honours]{.tag .tag-level} [Molecular Evolution]{.tag .tag-topic}
+:::
 
-[Research topics](alex-projects.qmd) &ensp; [ANU profile](https://biology.anu.edu.au/people/alex-skeels)
+[**Supervisor:** [Lindell Bromham](people.qmd#lindell-bromham)]{.project-supervisor}
 
-### Jordan Douglas
+Lindell's group works on the causes and consequences of variation in molecular evolutionary rates — from mutation rates to substitution rates across the tree of life. Projects are available at PhD, Masters, and Honours level. Contact Lindell to discuss specific project ideas.
 
-[Postdoctoral Fellow, Research School of Biology]{.team-role}
+[ANU profile](https://biology.anu.edu.au/people/lindell-bromham) &ensp; [Personal website](https://lindellbromham.com/)
+:::
 
--
+::: {.student-project data-levels="phd honours masters" data-topics="language-culture"}
+### Projects in language evolution and linguistic diversity
 
-[Research topics](jordan-projects.qmd) &ensp; [ANU profile](https://biology.anu.edu.au/people/jordan-douglas)
+::: {.project-tags}
+[PhD]{.tag .tag-level} [Masters]{.tag .tag-level} [Honours]{.tag .tag-level} [Language & Culture]{.tag .tag-topic}
+:::
 
-### Sam Passmore
+[**Supervisors:** [Lindell Bromham](people.qmd#lindell-bromham) &amp; [Sam Passmore](people.qmd#sam-passmore)]{.project-supervisor}
 
-[Postdoctoral Fellow, College of Arts and Social Sciences]{.team-role}
+Projects applying evolutionary and phylogenetic methods to understand patterns of language change, linguistic diversity, and cultural evolution. Topics include language complexity, population size effects, and the relationship between biological and cultural evolution.
 
--
+[Lindell's ANU profile](https://biology.anu.edu.au/people/lindell-bromham) &ensp; [Sam's personal website](https://www.sampassmore.com/)
+:::
 
-[Research topics](sam-projects.qmd) &ensp; [Personal website](https://www.sampassmore.com/)
+::: {.student-project data-levels="phd honours masters" data-topics="macroevolution conservation"}
+### Projects in macroevolution and biogeography
+
+::: {.project-tags}
+[PhD]{.tag .tag-level} [Masters]{.tag .tag-level} [Honours]{.tag .tag-level} [Macroevolution & Biogeography]{.tag .tag-topic} [Conservation]{.tag .tag-topic}
+:::
+
+[**Supervisor:** [Marcel Cardillo](people.qmd#marcel-cardillo)]{.project-supervisor}
+
+Marcel's group studies the evolutionary processes that have shaped global biodiversity patterns, and how evolutionary history influences species' vulnerability to human impacts. Projects span phylogenetics, model-based biogeography, and extinction risk modelling.
+
+[ANU profile](https://biology.anu.edu.au/people/marcel-cardillo)
+:::
+
+::: {.student-project data-levels="phd honours masters" data-topics="conservation"}
+### Projects in species declines and extinction prevention
+
+::: {.project-tags}
+[PhD]{.tag .tag-level} [Masters]{.tag .tag-level} [Honours]{.tag .tag-level} [Conservation]{.tag .tag-topic}
+:::
+
+[**Supervisor:** [Ben Scheele](people.qmd#ben-scheele)]{.project-supervisor}
+
+Ben's research focuses on understanding the mechanisms driving species declines — from disease to habitat loss — and using this knowledge to prevent extinctions. Projects available in amphibian biology, threatened species ecology, and conservation planning.
+
+[ANU profile](https://fennerschool.anu.edu.au/people/benjamin-scheele)
+:::
+
+::: {.student-project data-levels="phd honours masters" data-topics="molecular-evolution macroevolution"}
+### Projects in mathematical and statistical approaches to evolution
+
+::: {.project-tags}
+[PhD]{.tag .tag-level} [Masters]{.tag .tag-level} [Honours]{.tag .tag-level} [Molecular Evolution]{.tag .tag-topic} [Macroevolution & Biogeography]{.tag .tag-topic}
+:::
+
+[**Supervisor:** [Xia Hua](people.qmd#xia-hua)]{.project-supervisor}
+
+Xia develops mathematical models to understand evolutionary processes including speciation, molecular evolution, and diversification. Projects suitable for students with strong quantitative backgrounds.
+
+[ANU profile](https://msi.anu.edu.au/people/xia-hua)
+:::
+
+::: {.student-project data-levels="phd honours masters" data-topics="molecular-evolution macroevolution"}
+### Projects in phylogenetic methods and diversification
+
+::: {.project-tags}
+[PhD]{.tag .tag-level} [Masters]{.tag .tag-level} [Honours]{.tag .tag-level} [Molecular Evolution]{.tag .tag-topic} [Macroevolution & Biogeography]{.tag .tag-topic}
+:::
+
+[**Supervisor:** [Jordan Douglas](people.qmd#jordan-douglas)]{.project-supervisor}
+
+Jordan develops and applies phylogenetic methods — including molecular clocks and speciation models — to study evolutionary and ecological drivers of diversification. Contact Jordan to discuss available projects.
+
+[ANU profile](https://biology.anu.edu.au/people/jordan-douglas)
+:::
+
+<div id="no-results" style="display:none; padding: 1rem; color: #888; font-style: italic;">
+No projects match the selected filters. Try a different combination or <a href="mailto:macroevoeco@anu.edu.au">get in touch</a>.
+</div>
+
+<script>
+document.addEventListener('DOMContentLoaded', function () {
+  var activeLevel = 'all';
+  var activeTopic = 'all';
+
+  function applyFilters() {
+    var projects = document.querySelectorAll('.student-project');
+    var visible = 0;
+    projects.forEach(function (el) {
+      var levels = (el.dataset.levels || '').split(' ');
+      var topics = (el.dataset.topics || '').split(' ');
+      var levelMatch = activeLevel === 'all' || levels.indexOf(activeLevel) !== -1;
+      var topicMatch = activeTopic === 'all' || topics.indexOf(activeTopic) !== -1;
+      if (levelMatch && topicMatch) {
+        el.classList.remove('hidden');
+        visible++;
+      } else {
+        el.classList.add('hidden');
+      }
+    });
+    var noResults = document.getElementById('no-results');
+    if (noResults) noResults.style.display = visible === 0 ? 'block' : 'none';
+  }
+
+  document.querySelectorAll('.filter-btn').forEach(function (btn) {
+    btn.addEventListener('click', function () {
+      var type  = btn.dataset.filterType;
+      var value = btn.dataset.filterValue;
+
+      // Update active button in this filter bar
+      btn.closest('.filter-bar').querySelectorAll('.filter-btn').forEach(function (b) {
+        b.classList.remove('active');
+      });
+      btn.classList.add('active');
+
+      if (type === 'level') activeLevel = value;
+      if (type === 'topic') activeTopic = value;
+      applyFilters();
+    });
+  });
+});
+</script>
 
 ## How to apply
 
@@ -78,5 +213,7 @@ title: "Prospective Students"
 - [Mathematical Sciences Institute](https://msi.anu.edu.au/study)
 
 ## Get in touch
+
+Interested in joining the lab? Email the relevant supervisor directly, or contact us at the Research School of Biology.
 
 :::

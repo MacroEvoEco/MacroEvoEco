@@ -26,7 +26,7 @@ We are a research group spread across several schools at ANU, united by our inte
 :::
 
 ::: {.theme-item}
-{{< iconify mdi translate >}} [Evolution of languages and linguistic diversity](research.qmd#language-diversity)
+{{< iconify mdi translate >}} [Evolution of languages, linguistic and cultural diversity](research.qmd#language-culture)
 :::
 
 ::: {.theme-item}
