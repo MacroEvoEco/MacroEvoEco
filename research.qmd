@@ -45,7 +45,7 @@ We study evolutionary and ecological processes across biological, linguistic and
 ## Macroevolution and Biogeography {#macroevolution-biogeography}
 
 ::: {.project-card}
-How has global biodiversity come to be distributed as it is today? Our research combines simulation modelling, phylogenetic comparative methods, and molecular phylogenies to investigate the drivers of diversification, biogeographic exchange, and species richness across a diverse array of plant and animal lineages, from Australia and around the globe. Our work spans Australian and global scales, with an emphasis on methods development to better explore phylogenetic and geographic data. One developing model system is the Proteaceae, an ancient plant family whose radiation illuminates the origins of Mediterranean-climate biodiversity hotspots in Australia and South Africa.
+How has global biodiversity come to be distributed as it is today? Our research combines simulation modelling, phylogenetic comparative methods, and molecular phylogenies to investigate the drivers of diversification, biogeographic exchange, and species richness across a diverse array of plant and animal lineages, from Australia and around the globe. Our work emphasises methods development to better explore phylogenetic and geographic data. One developing model system is the Proteaceae, an ancient plant family whose radiation illuminates the origins of Mediterranean-climate biodiversity hotspots in Australia and South Africa.
 
 **Recent publications:**
 
