@@ -81,7 +81,7 @@ How has global biodiversity come to be distributed as it is today? Our research 
 ## Evolution of Languages, Linguistic and Cultural Diversity {#language-culture}
 
 ::: {.project-card}
-*Blurb coming soon.*
+Languages and cultures change over time through processes that bears a striking resemblance to biological evolution: variants arise and spread through populations, some variants are retained and others are lost, leaving descendants that differ from their common ancestors. Our research uses analytical tools developed in evolutionary biology to study these macro-patterns of change, often using global datasets. Phylogenetic methods allow us to reconstruct the relationships among languages and trace how features have been gained or lost across lineages. In some cases, we develop new methods to account for the different patterns of change seen in language and culture, such as (population-level models of linguistic change)[https://academic.oup.com/jole/article/7/1/40/6570178?guestAccessKey=]. Statistical frameworks adapted from macroecology let us test whether language diversity is shaped by the same kinds of environmental and demographic factors that drive biodiversity — for example, [whether climate and geography predict where linguistic diversity concentrates](https://www.nature.com/articles/s41559-021-01604-y). By bringing biological theory into contact with global linguistic and cultural data, this research aims to identify the forces that shape linguistic and cultural diversity.
 
 **Recent publications:**
 
@@ -91,9 +91,7 @@ How has global biodiversity come to be distributed as it is today? Our research 
 
 - **Hua** X, **Bromham** L, Stewart J, Algy C, Meakins F (2026) Sali-CAT: A new method for ranking social salience for multiple variables. *Language Variation and Change* in press.
 
-- **Passmore** S, Mullan K (2026) Kinbank v1.2: A global database of kinship terminology.
-
-- Youngblood M, **Passmore** S (2026) Simulation-based inference with deep learning suggests speed climbers combine innovation and copying to improve performance. *Proceedings of the Royal Society B* 293(2062).
+- Youngblood M, **Passmore** S (2026) Simulation-based inference with deep learning suggests speed climbers combine innovation and copying to improve performance. *Proceedings of the Royal Society B* 293(2062). [doi:https://doi.org/10.1098/rspb.2025.1433](https://doi.org/10.1098/rspb.2025.1433)
 :::
 
 :::
