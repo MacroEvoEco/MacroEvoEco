@@ -22,19 +22,23 @@ We are a research group spread across several schools at ANU, united by our inte
 ::: {.research-themes}
 
 ::: {.theme-item}
-{{< iconify mdi dna >}} [Patterns and processes of molecular evolution](research.qmd#molecular-evolution)
+{{< iconify mdi dna >}} [Tempo and mode of molecular evolution](research.qmd#tempo-mode)
+:::
+
+::: {.theme-item}
+{{< iconify mdi shield-nature >}} [Extinction risk](research.qmd#extinction-risk)
+:::
+
+::: {.theme-item}
+{{< iconify mdi earth >}} [Macroevolution and Biogeography](research.qmd#macroevolution-biogeography)
+:::
+
+::: {.theme-item}
+{{< iconify mdi source-branch >}} [Speciation and phylogenetics](research.qmd#speciation-phylogenetics)
 :::
 
 ::: {.theme-item}
 {{< iconify mdi translate >}} [Evolution of languages, linguistic and cultural diversity](research.qmd#language-culture)
-:::
-
-::: {.theme-item}
-{{< iconify mdi source-branch >}} [Phylogenetics, macroevolution and biogeography](research.qmd#macroevolution-biogeography)
-:::
-
-::: {.theme-item}
-{{< iconify mdi shield-nature >}} [Extinction risk and conservation prioritization](research.qmd#extinction-conservation)
 :::
 
 :::
