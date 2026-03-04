@@ -27,45 +27,54 @@ We welcome students at all levels — PhD, Masters, Honours, and undergraduate �
 <button class="filter-btn" data-filter-type="topic" data-filter-value="molecular-evolution">Molecular Evolution</button>
 <button class="filter-btn" data-filter-type="topic" data-filter-value="language-culture">Language & Culture</button>
 <button class="filter-btn" data-filter-type="topic" data-filter-value="macroevolution">Macroevolution</button>
+<button class="filter-btn" data-filter-type="topic" data-filter-value="macroecology">Macroecology</button>
+<button class="filter-btn" data-filter-type="topic" data-filter-value="biogeography">Biogeography</button>
+<button class="filter-btn" data-filter-type="topic" data-filter-value="phylogenetics">Phylogenetics</button>
 <button class="filter-btn" data-filter-type="topic" data-filter-value="conservation">Conservation</button>
 :::
 
 :::
 
-::: {.student-project data-levels="phd honours" data-topics="macroevolution"}
+::: {.student-project data-levels="phd honours masters" data-topics="macroevolution biogeography"}
 ### Biotic interchange during a major continental collision: Sunda and Sahul
 
 ::: {.project-tags}
-[PhD]{.tag .tag-level} [Honours]{.tag .tag-level} [Macroevolution & Biogeography]{.tag .tag-topic}
+[PhD]{.tag .tag-level} [Masters]{.tag .tag-level} [Honours]{.tag .tag-level} [Macroevolution]{.tag .tag-topic} [Biogeography]{.tag .tag-topic}
 :::
 
 [**Supervisor:** [Alex Skeels](people.qmd#alex-skeels)]{.project-supervisor}
 
-The collision of the Sunda and Sahul tectonic plates created one of the most biodiverse regions on Earth. This project investigates how species have exchanged between these two landmasses over geological time and what factors have driven or impeded this biotic interchange. Students will use phylogenetic comparative methods and biogeographic modelling.
+The collision of the Sunda and Sahul tectonic plates created one of the most biodiverse regions on Earth. This project investigates how species have exchanged between these two landmasses over geological time, and what factors — including climate, ecology, and geography — have driven or impeded biotic interchange across Wallace's Line. Students will use phylogenetic comparative methods and biogeographic modelling. See: [Skeels et al. (2023) *Science* 381:86](https://doi.org/10.1126/science.adf7122).
+
+[Personal website](https://alexskeels.github.io/) &ensp; [ANU profile](https://biology.anu.edu.au/people/alex-skeels)
 :::
 
-::: {.student-project data-levels="phd honours" data-topics="macroevolution"}
+::: {.student-project data-levels="phd honours masters" data-topics="macroevolution phylogenetics"}
 ### Deep-time climate effects on extinction patterns from molecular phylogenies
 
 ::: {.project-tags}
-[PhD]{.tag .tag-level} [Honours]{.tag .tag-level} [Macroevolution & Biogeography]{.tag .tag-topic}
+[PhD]{.tag .tag-level} [Masters]{.tag .tag-level} [Honours]{.tag .tag-level} [Macroevolution]{.tag .tag-topic} [Phylogenetics]{.tag .tag-topic}
 :::
 
 [**Supervisor:** [Alex Skeels](people.qmd#alex-skeels)]{.project-supervisor}
 
 How have past climate changes shaped the extinction and diversification of species over millions of years? This project uses time-calibrated molecular phylogenies to investigate the signatures of ancient climate-driven extinction events across plant and animal lineages.
+
+[Personal website](https://alexskeels.github.io/) &ensp; [ANU profile](https://biology.anu.edu.au/people/alex-skeels)
 :::
 
-::: {.student-project data-levels="phd honours masters" data-topics="macroevolution"}
-### Simulating the evolution of biodiversity
+::: {.student-project data-levels="phd" data-topics="macroecology biogeography macroevolution"}
+### Simulating the evolution of biodiversity in Australia
 
 ::: {.project-tags}
-[PhD]{.tag .tag-level} [Masters]{.tag .tag-level} [Honours]{.tag .tag-level} [Macroevolution & Biogeography]{.tag .tag-topic}
+[PhD]{.tag .tag-level} [Macroecology]{.tag .tag-topic} [Biogeography]{.tag .tag-topic} [Macroevolution]{.tag .tag-topic}
 :::
 
 [**Supervisor:** [Alex Skeels](people.qmd#alex-skeels)]{.project-supervisor}
 
-Individual-based simulation models offer a powerful way to understand how ecological and evolutionary processes produce the biodiversity patterns we observe today. This project involves developing or applying simulation frameworks to explore drivers of species richness, endemism, and phylogenetic structure across space and time.
+Australia's extraordinary biodiversity is the product of millions of years of environmental change — most importantly, the progressive aridification of the continent and the consequent restructuring of biome distributions. This PhD project will use population- and species-level simulation models to understand how these changes have shaped the diversity, endemism, and phylogenetic structure of Australian plants and animals. Key modelling tools include [Gen3sis](https://doi.org/10.1371/journal.pbio.3001340) (Hagen et al. 2021, *PLOS Biology*) and [DReAD](https://doi.org/10.1086/701125) (Skeels & Cardillo 2019, *American Naturalist*) — both population- and species-level mechanistic models, not individual-based.
+
+[Personal website](https://alexskeels.github.io/) &ensp; [ANU profile](https://biology.anu.edu.au/people/alex-skeels)
 :::
 
 ::: {.student-project data-levels="phd honours masters" data-topics="molecular-evolution"}
@@ -96,11 +105,11 @@ Projects applying evolutionary and phylogenetic methods to understand patterns o
 [Lindell's ANU profile](https://biology.anu.edu.au/people/lindell-bromham) &ensp; [Sam's personal website](https://www.sampassmore.com/)
 :::
 
-::: {.student-project data-levels="phd honours masters" data-topics="macroevolution conservation"}
+::: {.student-project data-levels="phd honours masters" data-topics="macroevolution biogeography conservation phylogenetics"}
 ### Projects in macroevolution and biogeography
 
 ::: {.project-tags}
-[PhD]{.tag .tag-level} [Masters]{.tag .tag-level} [Honours]{.tag .tag-level} [Macroevolution & Biogeography]{.tag .tag-topic} [Conservation]{.tag .tag-topic}
+[PhD]{.tag .tag-level} [Masters]{.tag .tag-level} [Honours]{.tag .tag-level} [Macroevolution]{.tag .tag-topic} [Biogeography]{.tag .tag-topic} [Phylogenetics]{.tag .tag-topic} [Conservation]{.tag .tag-topic}
 :::
 
 [**Supervisor:** [Marcel Cardillo](people.qmd#marcel-cardillo)]{.project-supervisor}
@@ -124,11 +133,11 @@ Ben's research focuses on understanding the mechanisms driving species declines 
 [ANU profile](https://fennerschool.anu.edu.au/people/benjamin-scheele)
 :::
 
-::: {.student-project data-levels="phd honours masters" data-topics="molecular-evolution macroevolution"}
+::: {.student-project data-levels="phd honours masters" data-topics="molecular-evolution macroevolution phylogenetics"}
 ### Projects in mathematical and statistical approaches to evolution
 
 ::: {.project-tags}
-[PhD]{.tag .tag-level} [Masters]{.tag .tag-level} [Honours]{.tag .tag-level} [Molecular Evolution]{.tag .tag-topic} [Macroevolution & Biogeography]{.tag .tag-topic}
+[PhD]{.tag .tag-level} [Masters]{.tag .tag-level} [Honours]{.tag .tag-level} [Molecular Evolution]{.tag .tag-topic} [Macroevolution]{.tag .tag-topic} [Phylogenetics]{.tag .tag-topic}
 :::
 
 [**Supervisor:** [Xia Hua](people.qmd#xia-hua)]{.project-supervisor}
@@ -138,11 +147,11 @@ Xia develops mathematical models to understand evolutionary processes including 
 [ANU profile](https://msi.anu.edu.au/people/xia-hua)
 :::
 
-::: {.student-project data-levels="phd honours masters" data-topics="molecular-evolution macroevolution"}
+::: {.student-project data-levels="phd honours masters" data-topics="phylogenetics macroevolution molecular-evolution"}
 ### Projects in phylogenetic methods and diversification
 
 ::: {.project-tags}
-[PhD]{.tag .tag-level} [Masters]{.tag .tag-level} [Honours]{.tag .tag-level} [Molecular Evolution]{.tag .tag-topic} [Macroevolution & Biogeography]{.tag .tag-topic}
+[PhD]{.tag .tag-level} [Masters]{.tag .tag-level} [Honours]{.tag .tag-level} [Phylogenetics]{.tag .tag-topic} [Macroevolution]{.tag .tag-topic} [Molecular Evolution]{.tag .tag-topic}
 :::
 
 [**Supervisor:** [Jordan Douglas](people.qmd#jordan-douglas)]{.project-supervisor}

@@ -5,7 +5,7 @@ title: "Publications"
 ::: {.section-block}
 
 ::: {.intro-text}
-Recent publications from the Macroevolution & Macroecology Group. For full publication lists, see individual Google Scholar profiles.
+Recent publications from the Macroevolution & Macroecology Group. For full publication lists, see individual profiles linked on the <a href="people.qmd">People</a> page.
 :::
 
 ## 2026

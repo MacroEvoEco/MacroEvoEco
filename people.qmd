@@ -204,9 +204,9 @@ document.addEventListener('DOMContentLoaded', function () {
   var grid = document.querySelector('.team-grid');
   if (grid) {
     var all = Array.from(grid.querySelectorAll(':scope > .team-card'));
-    // First two cards (Lindell, Marcel) stay fixed
-    var fixed = all.slice(0, 2);
-    var rest  = all.slice(2);
+    // First four cards (Lindell, Marcel, Xia, Ben) stay fixed as PIs
+    var fixed = all.slice(0, 4);
+    var rest  = all.slice(4);
     for (var i = rest.length - 1; i > 0; i--) {
       var j = Math.floor(Math.random() * (i + 1));
       var tmp = rest[i]; rest[i] = rest[j]; rest[j] = tmp;

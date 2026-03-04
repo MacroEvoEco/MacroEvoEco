@@ -8,28 +8,92 @@ title: "Research"
 We study evolutionary and ecological processes across biological, linguistic and cultural diversity. Below are examples of our major research themes.
 :::
 
-## Patterns and processes of molecular evolution {#molecular-evolution}
+## Tempo and Mode of Molecular Evolution {#tempo-mode}
 
 ::: {.project-card}
 *Blurb coming soon.*
+
+**Recent publications:**
+
+- Schembri R, **Bromham** L, Moritz C, **Hua** X (2025) Comparing rates of molecular and morphological evolution identifies multiple speciation trajectories in a diverse radiation of skinks. *Evolution* 79:858–868. [doi:10.1093/evolut/qpaf033](https://doi.org/10.1093/evolut/qpaf033)
+
+- **Hua** X, Moritz C (2025) A phylogenetic approach to delimitate species in a probabilistic way. *Systematic Biology* 74(5):723–739. [doi:10.1093/sysbio/syaf004](https://doi.org/10.1093/sysbio/syaf004)
+
+- **Douglas** J, Bouckaert R, Carter CW, Wills PR (2025) Reduced amino acid substitution matrices find traces of ancient coding alphabets in modern day proteins. *Molecular Biology and Evolution* 42(9):msaf197. [doi:10.1093/molbev/msaf197](https://doi.org/10.1093/molbev/msaf197)
+
+- **Douglas** J, **Bromham** L (submitted) Reconstructing substitution histories on phylogenies, with accuracy, precision, and coverage. [Preprint](https://www.biorxiv.org/cgi/content/short/2025.12.21.695861v1)
 :::
 
-## Evolution of languages, linguistic and cultural diversity {#language-culture}
+## Extinction Risk {#extinction-risk}
 
 ::: {.project-card}
 *Blurb coming soon.*
+
+**Recent publications:**
+
+- **Cardillo** M, **Scheele** BC, Tulloch AIT (2025) Forecasting extinction risk for future-proof conservation decisions. *Trends in Ecology & Evolution*. [doi:10.1016/j.tree.2025.10.014](https://doi.org/10.1016/j.tree.2025.10.014)
+
+- Duncan RP, **Scheele** BC, Clulow S (2025) Thermal mismatch models derived from occurrence data predict pathogen prevalence in frogs. *PNAS* 122(30):e2423706122. [doi:10.1073/pnas.2423706122](https://doi.org/10.1073/pnas.2423706122)
+
+- Ward M et al. incl. **Scheele** BC (2025) The estimated cost of preventing extinction and progressing recovery for Australia's priority threatened species. *PNAS* 122(6):e2414985122. [doi:10.1073/pnas.2414985122](https://doi.org/10.1073/pnas.2414985122)
+
+- **Scheele** BC, Heard GW, Duncan RP, Clulow S, Sopniewski J (2025) An invasive pathogen generally contracts species to their niche cores, not margins. *Ecography* 2025(5):e07612. [doi:10.1111/ecog.07612](https://doi.org/10.1111/ecog.07612)
+
+- **Kearns** M, **Skeels** A, Yaxley K, **Cardillo** M (in press) Conservation priority areas based on phylogenetic diversity are sensitive to methods of phylogenetic inference and divergence time estimation. *Diversity & Distributions*
 :::
 
-## Phylogenetics, macroevolution and biogeography {#macroevolution-biogeography}
+## Macroevolution and Biogeography {#macroevolution-biogeography}
 
 ::: {.project-card}
-*Blurb coming soon.*
+How has global biodiversity come to be distributed as it is today? Our research combines simulation modelling, phylogenetic comparative methods, and molecular phylogenies to investigate the drivers of diversification, biogeographic exchange, and species richness across a diverse array of plant and animal lineages — from Australian alpine plants to South American reptiles and global forest trees. Our work spans Australian and global scales, with an emphasis on methods development to better exploit phylogenetic and geographic data. One developing model system is the Proteaceae, an ancient plant family whose radiation illuminates the origins of Mediterranean-climate biodiversity hotspots in Australia and South Africa.
+
+**Recent publications:**
+
+- **Skeels** A, Sauquet H, Mast A, Weston PH et al. (2025) Paleobiome dynamics shaped a large Gondwanan plant radiation. *PNAS* 122(29):e2502129122. [doi:10.1073/pnas.2502129122](https://doi.org/10.1073/pnas.2502129122)
+
+- Nge FJ, **Skeels** A (2025) Diversification patterns of the southwest Australian biodiversity hotspot reveal a novel macroevolutionary pathway to plant hyperdiversity. *New Phytologist* 248(2):953–967. [doi:10.1111/nph.70330](https://doi.org/10.1111/nph.70330)
+
+- Yuan Z, Yang G, Ding W, Brun P, **Skeels** A et al. (2025) The geography of connectivity shapes plant endemism hotspots. *Ecography* 2025(9):e07514. [doi:10.1002/ecog.07514](https://doi.org/10.1002/ecog.07514)
+
+- Ding W, Ree RH, May MR et al. incl. **Skeels** A (2025) The asynchronous rise of Northern Hemisphere alpine floras reveals general responses of biotic assembly to orogeny and climate change. *Science Advances* 11(51):eadz1888. [doi:10.1126/sciadv.adz1888](https://doi.org/10.1126/sciadv.adz1888)
+
+- Lorcery M, Husson L, Salles T et al. incl. **Skeels** A (2025) Deep time evolution of the Latitudinal Diversity Gradient: Insights from mechanistic models. *PLoS One* 20(9):e0332766. [doi:10.1371/journal.pone.0332766](https://doi.org/10.1371/journal.pone.0332766)
 :::
 
-## Extinction risk and conservation prioritization {#extinction-conservation}
+## Speciation and Phylogenetics {#speciation-phylogenetics}
 
 ::: {.project-card}
 *Blurb coming soon.*
+
+**Recent publications:**
+
+- **Hua** X, Moritz C (2025) A phylogenetic approach to delimitate species in a probabilistic way. *Systematic Biology* 74(5):723–739. [doi:10.1093/sysbio/syaf004](https://doi.org/10.1093/sysbio/syaf004)
+
+- Schembri R, **Bromham** L, Moritz C, **Hua** X (2025) Comparing rates of molecular and morphological evolution identifies multiple speciation trajectories in a diverse radiation of skinks. *Evolution* 79:858–868. [doi:10.1093/evolut/qpaf033](https://doi.org/10.1093/evolut/qpaf033)
+
+- **Douglas** J, Bouckaert R, Harris SC, Carter CW Jr, Wills PR (2025) Evolution is coupled with branching across many granularities of life. *Proceedings of the Royal Society B* 292(2047). [doi:10.1098/rspb.2024.2254](https://doi.org/10.1098/rspb.2024.2254)
+
+- Puente-Lelievre C, Malik A, **Douglas** J (2025) Protein structural phylogenetics. *Genome Biology and Evolution* 17(8):evaf139. [doi:10.1093/gbe/evaf139](https://doi.org/10.1093/gbe/evaf139)
+
+- Stukel M, Matzke NJ, **Douglas** J et al. (2025) Phylogenomics and Fossilized Birth-Death Dating Reveals Gondwanan Origin and Extensive Post-Cretaceous Diversification of Worldwide Cicadidae. *bioRxiv*. [Preprint](https://www.biorxiv.org/content/10.1101/2025.11.08.687401)
+:::
+
+## Evolution of Languages, Linguistic and Cultural Diversity {#language-culture}
+
+::: {.project-card}
+*Blurb coming soon.*
+
+**Recent publications:**
+
+- **Bromham** L, Yaxley K, Wilson O, **Hua** X (2025) Macroevolutionary analysis of polysynthesis shows that language complexity is more likely to evolve in small, isolated populations. *PNAS* 122(24):e2504483122. [doi:10.1073/pnas.2504483122](https://doi.org/10.1073/pnas.2504483122)
+
+- **Bromham** L (2025) Population size and language change: an evolutionary perspective. *Annual Review of Linguistics* 11:183–208. [doi:10.1146/annurev-linguistics-031422-123959](https://doi.org/10.1146/annurev-linguistics-031422-123959)
+
+- **Hua** X, **Bromham** L, Stewart J, Algy C, Meakins F (2026) Sali-CAT: A new method for ranking social salience for multiple variables. *Language Variation and Change* in press.
+
+- **Passmore** S, Mullan K (2026) Kinbank v1.2: A global database of kinship terminology.
+
+- Youngblood M, **Passmore** S (2026) Simulation-based inference with deep learning suggests speed climbers combine innovation and copying to improve performance. *Proceedings of the Royal Society B* 293(2062).
 :::
 
 :::
