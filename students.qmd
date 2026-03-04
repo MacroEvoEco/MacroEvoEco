@@ -72,7 +72,7 @@ How have past climate changes shaped the extinction and diversification of speci
 
 [**Supervisor:** [Alex Skeels](people.qmd#alex-skeels)]{.project-supervisor}
 
-Australia's extraordinary biodiversity is the product of millions of years of environmental change — most importantly, the progressive aridification of the continent and the consequent restructuring of biome distributions. This PhD project will use population- and species-level simulation models to understand how these changes have shaped the diversity, endemism, and phylogenetic structure of Australian plants and animals. Key modelling tools include [Gen3sis](https://doi.org/10.1371/journal.pbio.3001340) (Hagen et al. 2021, *PLOS Biology*) and [DReAD](https://doi.org/10.1086/701125) (Skeels & Cardillo 2019, *American Naturalist*) — both population- and species-level mechanistic models, not individual-based.
+Australia's extraordinary biodiversity is the product of millions of years of environmental change — most importantly, the progressive aridification of the continent and the consequent restructuring of biome distributions. This project will aim to understand how these changes have shaped the diversity, endemism, and phylogenetic structure of Australian plants and animals, using simulation modelling tools including [Gen3sis](https://doi.org/10.1371/journal.pbio.3001340) (Hagen et al. 2021, *PLOS Biology*) and [DReAD](https://doi.org/10.1086/701125) (Skeels & Cardillo 2019, *American Naturalist*).
 
 [Personal website](https://alexskeels.github.io/) &ensp; [ANU profile](https://biology.anu.edu.au/people/alex-skeels)
 :::
