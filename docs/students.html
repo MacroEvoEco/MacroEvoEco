@@ -186,7 +186,7 @@ ul.task-list li input[type="checkbox"] {
 <p><span class="tag tag-level">PhD</span> <span class="tag tag-topic">Macroecology</span> <span class="tag tag-topic">Biogeography</span> <span class="tag tag-topic">Macroevolution</span></p>
 </div>
 <p><span class="project-supervisor"><strong>Supervisor:</strong> <a href="./people.html#alex-skeels">Alex Skeels</a></span></p>
-<p>Australia’s extraordinary biodiversity is the product of millions of years of environmental change — most importantly, the progressive aridification of the continent and the consequent restructuring of biome distributions. This PhD project will use population- and species-level simulation models to understand how these changes have shaped the diversity, endemism, and phylogenetic structure of Australian plants and animals. Key modelling tools include <a href="https://doi.org/10.1371/journal.pbio.3001340">Gen3sis</a> (Hagen et al.&nbsp;2021, <em>PLOS Biology</em>) and <a href="https://doi.org/10.1086/701125">DReAD</a> (Skeels &amp; Cardillo 2019, <em>American Naturalist</em>) — both population- and species-level mechanistic models, not individual-based.</p>
+<p>Australia’s extraordinary biodiversity is the product of millions of years of environmental change — most importantly, the progressive aridification of the continent and the consequent restructuring of biome distributions. This project will aim to understand how these changes have shaped the diversity, endemism, and phylogenetic structure of Australian plants and animals, using simulation modelling tools including <a href="https://doi.org/10.1371/journal.pbio.3001340">Gen3sis</a> (Hagen et al.&nbsp;2021, <em>PLOS Biology</em>) and <a href="https://doi.org/10.1086/701125">DReAD</a> (Skeels &amp; Cardillo 2019, <em>American Naturalist</em>).</p>
 <p><a href="https://alexskeels.github.io/">Personal website</a>   <a href="https://biology.anu.edu.au/people/alex-skeels">ANU profile</a></p>
 </section>
 <section id="projects-in-molecular-evolution-and-mutation-rates" class="level3 student-project" data-levels="phd honours masters" data-topics="molecular-evolution">
@@ -248,6 +248,18 @@ ul.task-list li input[type="checkbox"] {
 </div>
 <script>
 document.addEventListener('DOMContentLoaded', function () {
+
+  // ── Shuffle student project cards ────────────────────────────────────────
+  var noResults = document.getElementById('no-results');
+  var cards = Array.from(document.querySelectorAll('.student-project'));
+  if (noResults && cards.length > 1) {
+    for (var i = cards.length - 1; i > 0; i--) {
+      var j = Math.floor(Math.random() * (i + 1));
+      var tmp = cards[i]; cards[i] = cards[j]; cards[j] = tmp;
+    }
+    cards.forEach(function (c) { noResults.parentNode.insertBefore(c, noResults); });
+  }
+
   var activeLevel = 'all';
   var activeTopic = 'all';
 

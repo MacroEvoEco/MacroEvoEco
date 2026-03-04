@@ -8,7 +8,6 @@ title: "Research"
 We study evolutionary and ecological processes across biological, linguistic and cultural diversity. Below are examples of our major research themes.
 :::
 
-::: {.research-theme-section}
 ## Tempo and Mode of Molecular Evolution {#tempo-mode}
 
 ::: {.project-card}
@@ -24,9 +23,7 @@ We study evolutionary and ecological processes across biological, linguistic and
 
 - **Douglas** J, **Bromham** L (submitted) Reconstructing substitution histories on phylogenies, with accuracy, precision, and coverage. [Preprint](https://www.biorxiv.org/cgi/content/short/2025.12.21.695861v1)
 :::
-:::
 
-::: {.research-theme-section}
 ## Extinction Risk {#extinction-risk}
 
 ::: {.project-card}
@@ -44,9 +41,7 @@ We study evolutionary and ecological processes across biological, linguistic and
 
 - **Kearns** M, **Skeels** A, Yaxley K, **Cardillo** M (in press) Conservation priority areas based on phylogenetic diversity are sensitive to methods of phylogenetic inference and divergence time estimation. *Diversity & Distributions*
 :::
-:::
 
-::: {.research-theme-section}
 ## Macroevolution and Biogeography {#macroevolution-biogeography}
 
 ::: {.project-card}
@@ -64,9 +59,7 @@ How has global biodiversity come to be distributed as it is today? Our research 
 
 - Lorcery M, Husson L, Salles T et al. incl. **Skeels** A (2025) Deep time evolution of the Latitudinal Diversity Gradient: Insights from mechanistic models. *PLoS One* 20(9):e0332766. [doi:10.1371/journal.pone.0332766](https://doi.org/10.1371/journal.pone.0332766)
 :::
-:::
 
-::: {.research-theme-section}
 ## Speciation and Phylogenetics {#speciation-phylogenetics}
 
 ::: {.project-card}
@@ -84,9 +77,7 @@ How has global biodiversity come to be distributed as it is today? Our research 
 
 - Stukel M, Matzke NJ, **Douglas** J et al. (2025) Phylogenomics and Fossilized Birth-Death Dating Reveals Gondwanan Origin and Extensive Post-Cretaceous Diversification of Worldwide Cicadidae. *bioRxiv*. [Preprint](https://www.biorxiv.org/content/10.1101/2025.11.08.687401)
 :::
-:::
 
-::: {.research-theme-section}
 ## Evolution of Languages, Linguistic and Cultural Diversity {#language-culture}
 
 ::: {.project-card}
@@ -104,21 +95,19 @@ How has global biodiversity come to be distributed as it is today? Our research 
 
 - Youngblood M, **Passmore** S (2026) Simulation-based inference with deep learning suggests speed climbers combine innovation and copying to improve performance. *Proceedings of the Royal Society B* 293(2062).
 :::
+
 :::
 
 <script>
 document.addEventListener('DOMContentLoaded', function () {
-  var sections = Array.from(document.querySelectorAll('.research-theme-section'));
+  var block = document.querySelector('div.section-block');
+  if (!block) return;
+  var sections = Array.from(block.querySelectorAll(':scope > section.level2'));
   if (sections.length < 2) return;
-  var parent = sections[0].parentNode;
-  var anchor = sections[sections.length - 1].nextSibling;
-  sections.forEach(function (s) { parent.removeChild(s); });
   for (var i = sections.length - 1; i > 0; i--) {
     var j = Math.floor(Math.random() * (i + 1));
     var tmp = sections[i]; sections[i] = sections[j]; sections[j] = tmp;
   }
-  sections.forEach(function (s) { parent.insertBefore(s, anchor); });
+  sections.forEach(function (s) { block.appendChild(s); });
 });
 </script>
-
-:::
